@@ -4,7 +4,7 @@
 
 This is a three-part series that builds a fundamental approach to designing, implementing, and analyzing complex algorithms. The course also incorporates key skills including technical communication and collaboration while problem solving. The course is designed to provide students with the techniques and confidence required to solve especially challenging technical problems.
 
-A key part of the course series is frequent, quantative assessment that demonstrates progress and helps students calibrate and focus their efforts.
+A key part of the course series is frequent, quantitative assessment that demonstrates progress and helps students calibrate and focus their efforts.
 
 * **Audience:** Undergraduate CS students across all 4 years
 * **Goal:** Develop strong confidence and readiness in the fundamentals of solving technical problems including analysis, debugging, verification and technical communication
@@ -62,20 +62,22 @@ Spanning our three-part software fundamentals series, the following topics will 
 
 | Topic | SE101 | SE102 | SE103 |
 | :--- | :--- | :--- | :--- |
-| Loops | :white\_circle: |  |  |
-| Conditionals | :white\_circle: |  |  |
-| Hashtables | :white\_circle: | :large\_blue\_circle: | :red\_circle: |
-| Strings | :white\_circle: | :large\_blue\_circle: | :red\_circle: |
-| Arrays | :white\_circle: | :large\_blue\_circle: | :red\_circle: |
-| Linked Lists |  | :white\_circle: :large\_blue\_circle: | :red\_circle: |
-| Stacks and Queues |  | :white\_circle: | :large\_blue\_circle: |
-| Trees and Binary Trees |  | :white\_circle: :large\_blue\_circle: | :red\_circle: |
-| Graphs |  | :white\_circle: | :large\_blue\_circle: |
-| Greedy Algorithms |  |  | :white\_circle: :large\_blue\_circle: |
-| Dynamic Programming |  |  | :white\_circle: :large\_blue\_circle: |
-| Backtracking |  |  | :white\_circle: :large\_blue\_circle: |
+| Loops | ⚪ |  |  |
+| Conditionals | ⚪ |  |  |
+| Hashtables | ⚪ | 🔵 | 🔴 |
+| Strings | ⚪ | 🔵 | 🔴 |
+| Arrays | ⚪ | 🔵 | 🔴 |
+| Linked Lists |  | ⚪ 🔵 | 🔴 |
+| Stacks and Queues |  | ⚪ | 🔵 |
+| Trees and Binary Trees |  | ⚪ 🔵 | 🔴 |
+| Graphs |  | ⚪ | 🔵 |
+| Greedy Algorithms |  |  | ⚪ 🔵 |
+| Dynamic Programming |  |  | ⚪ 🔵 |
+| Backtracking |  |  | ⚪ 🔵 |
 
-:::info **Legend:** :white\_circle: Easy :large\_blue\_circle: Medium :red\_circle: Hard :::
+{% hint style="info" %}
+**Legend:** ⚪ Easy 🔵 Medium 🔴 Hard
+{% endhint %}
 
 ## 4. Learning Goals
 

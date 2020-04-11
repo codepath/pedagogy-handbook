@@ -2,7 +2,7 @@
 
 ## Programs Inventory
 
-### Currently Developed \(:white\_check\_mark:\)
+### Currently Developed \(✅\)
 
 We have the following courses already developed and are in the **continual process of being improved and iterated on over time**:
 

@@ -1,6 +1,8 @@
 # Program Quality
 
-:::warning This section is especially a work in progress, these numbers and targets are still being adapted. :::
+{% hint style="warning" %}
+This section is especially a work in progress, these numbers and targets are still being adapted.
+{% endhint %}
 
 ## Tiers Overview
 
