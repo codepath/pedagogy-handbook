@@ -1,7 +1,5 @@
 # Student Impact Objectives
 
-## Student Impact Objectives
-
 Our mission requires providing programs, materials and support around five key aspects of confidence for students:
 
 1. **Confidence and belief that software engineering and the tech industry is an achievable and desirable career that is worth pursuing** - Most students in high school and college have a very limited understanding of software engineering and the surrounding landscape. Provide each student a clear understanding of why a career in software is a _achievable and desirable goal for them specifically as an individual_. More importantly provide them the support, network and mentors required to help them along that path.
@@ -39,7 +37,7 @@ Our programs provide this aspect with the following:
 
 After you apply to enough companies, and get opportunities to interview, students need to make sure they are prepared for the rigorous technical interviews associated with top tech companies including data structures, algorithms, problem solving and behavioral interview segments. **We provide a three-part series to provide students confidence and readiness for even the toughest interviews.**
 
-Our [three-part software fundamentals series](https://tinyurl.com/codepathsoftwarefundamentals) provide this aspect with the following:
+Our [three-part software fundamentals series](appendix/software-fundamentals-series.md) provide this aspect with the following:
 
 1. **SE101: Introduction to Software Fundamentals**
    * Audience: Freshman/Sophomore CS & STEM w/ basic programming experience

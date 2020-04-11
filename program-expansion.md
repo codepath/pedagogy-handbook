@@ -10,5 +10,7 @@ Our programs can and should expand over time in the following ways but balanced 
 * **Number of Courses Offered** - Offering a larger number of our existing courses on each campus \(or remotely\) within a given semester. 
 * **Types of Courses Offered** - Offering a larger array of different courses over time including new Special topics across our locations.
 
-:::warning Note that expansion is important but as noted, should not come at the cost of sacrificing our program quality and outcomes. We need to find the right balance. :::
+{% hint style="warning" %}
+Note that expansion is important but as noted, should not come at the cost of sacrificing our program quality and outcomes. We need to find the right balance.
+{% endhint %}
 

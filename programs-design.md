@@ -46,5 +46,5 @@ All of our programs are powered by a combination of people, process and platform
 * Grading and scoring submissions from participants during the course
 * Managing configuring, operating, and analyzing running courses
 
-See [an written overview of our platform here](https://hackmd.io/s/rkqeUB2w). You can read more about our [program and platform on this slide deck](https://docs.google.com/presentation/d/1m1ykPA7kld3XM7j4pXvkBWH87tN-5yhNvgQRKdGxbH0/edit?usp=sharing).
+See [an written overview of our platform here](appendix/learning-platform.md). You can read more about our [program and platform on this slide deck](https://docs.google.com/presentation/d/1m1ykPA7kld3XM7j4pXvkBWH87tN-5yhNvgQRKdGxbH0/edit?usp=sharing).
 
