@@ -109,7 +109,3 @@ Our scaled programs are largely powered and run by student leaders that step up 
  * TechFellow Gurus are students that help coordinate with other TechFellows across multiple campuses
  
 Through their time working with CodePath, students are provided opportunities to find their voice, and practice leadership through service as a natural extension of participating in the programs.
-
----
-
-:page_facing_up::arrow_right: **Next:** Review our [Guiding Principles](/BcJ8xUvDQRiBJlf9xc1Agg) or return to :books: [Table of Contents](/QqlbG9ZySt-7VLLz5xkUbA).
