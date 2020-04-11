@@ -1,0 +1,27 @@
+# Course Resources Index - Programs - CodePath.org
+
+## Syllabus
+
+ * [iOS](https://courses.codepath.com/snippets/ios_university/policies)
+ * [Android](https://courses.codepath.com/snippets/android_university/policies)
+ * [Cybersecurity](https://courses.codepath.com/snippets/cybersecurity_university/policies) ([Course Overview](https://courses.codepath.com/snippets/cybersecurity_university/course_overview))
+ * [Mobile App Design Workshop Series - MAD](https://courses.codepath.com/snippets/mobile_app_design/policies)
+ * [Intermediate Technical Interviewing - SE102](https://courses.codepath.com/snippets/intermediate_software_eng/policies)
+ * [Advanced Technical Interviewing - SE103](https://courses.codepath.com/snippets/advanced_software_eng/policies) 
+
+## Open-Source Technical Guides
+
+ * [Android Guides](https://guides.codepath.com/android)
+ * [iOS Guides](https://guides.codepath.com/ios)
+ * [Compsci Guides](https://guides.codepath.com/compsci)
+ * [Cybersecurity Guides](https://guides.codepath.com/websecurity)
+
+## Career Center 
+
+Student Career Guides:
+
+ - [Career Center Guidebook](https://codepath.hackmd.io/c/Hkt8rjoQV)
+ - [Your Questions Answered](https://tinyurl.com/codepathquestionsanswered)
+ - [Building an Effective Resume](https://tinyurl.com/codepathresumeguide)
+ - [Internship Interview Guide](https://tinyurl.com/codepathinterviewguide)
+ - [Resume Starter Kit](https://goo.gl/q5dp5w)
