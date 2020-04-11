@@ -22,7 +22,3 @@ This handbook describes our CodePath.org programs, both current and future, and 
   - [Learning Platform](/l9lESNwvTQqi6iVbT89sRg) - Summary of our technology platform and tools powering our programs
   - [Deploying and Analyzing Courses](/ofvt3gWYTZm83Bxp5LPH7w) - Understand how we deploy and improve our courses.
   - [Miscellaneous](/3us4WX3WSQeezoSa57WkEA) - Additional information about our programs
-
----
-
-:page_facing_up::arrow_right: **Next:** Check out the [Programs Overview](/4Z6GbkWfSdWLVcLM6Z1xdQ).
