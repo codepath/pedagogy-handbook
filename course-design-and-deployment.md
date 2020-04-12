@@ -2,10 +2,10 @@
 
 For any given program we run, there are a number of steps involved to successful design, implementation, and deployment to students:
 
-1. [Creation of Curriculum](https://hackmd.io/@nesquena/SkKa6anh7?type=view#1-Creation-of-Curriculum)
-2. [Cohort Staffing](https://hackmd.io/@nesquena/SkKa6anh7?type=view#2-Cohort-Staffing-Instructor-TechFellow-andor-Volunteer) \(Instructor, TechFellow and/or Volunteer\)
-3. [Course Deployment](https://hackmd.io/@nesquena/SkKa6anh7?type=view#3-Course-Deployment-Marketing-Admissions-Operations) \(Marketing, Admissions, Operations\)
-4. [Course Maintenance and Iteration](https://hackmd.io/@nesquena/SkKa6anh7?type=view#4-Course-Maintenance-and-Iteration)
+1. [Creation of Curriculum](course-design-and-deployment.md#1-Creation-of-Curriculum)
+2. [Cohort Staffing](course-design-and-deployment.md#2-Cohort-Staffing-Instructor-TechFellow-andor-Volunteer) \(Instructor, TechFellow and/or Volunteer\)
+3. [Course Deployment](course-design-and-deployment.md#3-Course-Deployment-Marketing-Admissions-Operations) \(Marketing, Admissions, Operations\)
+4. [Course Maintenance and Iteration](course-design-and-deployment.md#4-Course-Maintenance-and-Iteration)
 
 Below we will dive into the different phases involved.
 
