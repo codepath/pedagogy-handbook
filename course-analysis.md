@@ -9,7 +9,7 @@ For any given program we run, there are a number of steps involved to successful
 3. Course Deployment \(Marketing, Admissions, Operations\)
 4. Course Maintenance and Iteration
 
-Check out [this separate document on program phases for more details](course-design-and-deployment.md).
+Check out [this separate document on program phases for more details](course-design-and-deployment/).
 
 ## Analyzing and Improving our Courses
 
@@ -28,5 +28,5 @@ These four distinct metrics help us understand the various ways our programs are
 3. How do we ensure that a **higher percentage of students report the course had a higher impact on their confidence** around key course objectives?
 4. How do we ensure that a **students are achieving higher levels of progress in their personal proficiency** at the end of the course? 
 
-For more details on gathering feedback, analyzing and improving courses, check out [the fourth section of the deploying programs doc](course-design-and-deployment.md#4-Course-Maintenance-and-Iteration).
+For more details on gathering feedback, analyzing and improving courses, check out [the fourth section of the deploying programs doc](course-design-and-deployment/#4-Course-Maintenance-and-Iteration).
 
