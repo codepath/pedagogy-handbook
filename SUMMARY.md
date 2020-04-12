@@ -21,6 +21,7 @@
 * [Scalable Education Model](appendix/scaling-education.md)
 * [Science of Learning](appendix/science-of-learning.md)
 * [Learning Platform](appendix/learning-platform.md)
+* [Course Design and Deployment](appendix/course-design-and-deployment.md)
 * [Course Analysis](appendix/course-analysis.md)
 * [Miscellaneous](appendix/miscellaneous.md)
 
