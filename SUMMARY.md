@@ -1,7 +1,7 @@
 # Table of contents
 
 * [👋🏽 Welcome](README.md)
-* [Overview](overview.md)
+* [CodePath.org Overview](overview.md)
 * [Student Impact Objectives](student-impact.md)
 * [Guiding Principles](guiding-principles.md)
 * [Student Journey](student-journey.md)
