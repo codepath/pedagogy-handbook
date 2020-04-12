@@ -28,7 +28,7 @@ We have the following courses already developed and are in the **continual proce
 We have the following courses in development currently and to be run soon:
 
 * Software Fundamentals
-  * [ ] [Intro to Software Fundamentals](https://codepath.hackmd.io/s/r1Zt1ixx4) \(SE101\)
+  * [ ] [Intro to Software Fundamentals](appendix/software-fundamentals-series.md) \(SE101\)
 
 ### Future Roadmap
 
