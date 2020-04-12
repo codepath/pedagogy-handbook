@@ -20,7 +20,7 @@ Our programs provide this aspect with the following:
 * Professional mentors helping out with labs and answering questions
 * Industry Q&A panels around specific subjects so students get questions answered
 
-You can see just a small part of the materials available to students around this in our [software engineering - common questions answered guide](https://hackmd.io/s/BytxqCfjm).
+You can see just a small part of the materials available to students around this in our [software engineering - common questions answered guide](https://books.codepath.org/student-handbook/software-engineering/your-questions-answered).
 
 ## 2. Confidence in understanding their specific path into the industry
 
@@ -30,7 +30,7 @@ Our programs provide this aspect with the following:
 
 * [Resume review assistance](https://goo.gl/forms/Oj3JGSUbizQwhxuH2) where we help students create or improve their resumes with materials and 1:1 sessions. Check out [one of our guides here](https://tinyurl.com/codepathresumeguide).
 * Providing specific instructions on how to begin their internship search by finding and applying to companies. Check out one [internship search guide](https://tinyurl.com/codepathinterviewguide) here.
-* Providing a map to various roles in the tech industry, to help students understand what types of roles and skills they want to explore and develop. You can see our [software engineering role map](https://hackmd.io/s/ByaoRR9Z7) for more details.
+* Providing a map to various roles in the tech industry, to help students understand what types of roles and skills they want to explore and develop. You can see our [software engineering role map](https://books.codepath.org/student-handbook/software-engineering/software-career-tracks) for more details.
 * Providing access to our special CodePath virtual career fairs where students are directly introduced to companies hiring interns and college grads for 1:1 meetings via Zoom.
 
 ## 3. Confidence in technical problem solving and interviewing
