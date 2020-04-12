@@ -54,7 +54,7 @@ In these courses, students are introduced to the following:
 * A structured approach to "talking out loud while they solve problems" which is a crucial component to successful interviewing by practicing a high number of problems with other students and mentors over 12-weeks
 * Deep explorations of fundamentals and techniques encountered in technical interviews or while developing algorithms. Check [this guide for a sample of topics](https://guides.codepath.com/compsci).
 
-Check out our [passing the technical interview](https://tinyurl.com/codepathinterviewguide) guide for a high-level of the things covered across our rigorous three-part series including behavioral tips, and technical topics.
+Check out our [passing the technical interview](https://books.codepath.org/student-handbook/technical-interviewing/technical-interviewing-guide) guide for a high-level of the things covered across our rigorous three-part series including behavioral tips, and technical topics.
 
 ## 3. Topics
 

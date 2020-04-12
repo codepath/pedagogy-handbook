@@ -28,8 +28,8 @@ The next step in a student's path is understanding how to actually get started d
 
 Our programs provide this aspect with the following:
 
-* [Resume review assistance](https://goo.gl/forms/Oj3JGSUbizQwhxuH2) where we help students create or improve their resumes with materials and 1:1 sessions. Check out [one of our guides here](https://tinyurl.com/codepathresumeguide).
-* Providing specific instructions on how to begin their internship search by finding and applying to companies. Check out one [internship search guide](https://tinyurl.com/codepathinterviewguide) here.
+* [Resume review assistance](https://goo.gl/forms/Oj3JGSUbizQwhxuH2) where we help students create or improve their resumes with materials and 1:1 sessions. Check out [one of our guides here](https://books.codepath.org/student-handbook/internship-search/student-resume-guide).
+* Providing specific instructions on how to begin their internship search by finding and applying to companies. Check out one [internship search guide](https://books.codepath.org/student-handbook/technical-interviewing/technical-interviewing-guide) here.
 * Providing a map to various roles in the tech industry, to help students understand what types of roles and skills they want to explore and develop. You can see our [software engineering role map](https://books.codepath.org/student-handbook/software-engineering/software-career-tracks) for more details.
 * Providing access to our special CodePath virtual career fairs where students are directly introduced to companies hiring interns and college grads for 1:1 meetings via Zoom.
 
