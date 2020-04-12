@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [👋🏽 Introduction](README.md)
 * [Overview](overview.md)
 * [Student Impact Objectives](student-impact.md)
 * [Guiding Principles](guiding-principles.md)
@@ -19,5 +19,5 @@
 * [Science of Learning](appendix/science-of-learning.md)
 * [Learning Platform](appendix/learning-platform.md)
 * [Course Analysis](appendix/course-analysis.md)
-* [Miscellanious](appendix/miscellaneous.md)
+* [Miscellaneous](appendix/miscellaneous.md)
 

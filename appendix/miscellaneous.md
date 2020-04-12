@@ -1,4 +1,4 @@
-# Miscellanious
+# Miscellaneous
 
 ## Course Types
 
