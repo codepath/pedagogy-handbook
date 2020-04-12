@@ -9,19 +9,19 @@
 
 ## Courses
 
-* [Program Design](programs-design.md)
-* [Program Quality](program-quality.md)
-* [Course Catalog](program-inventory.md)
-* [📑 Course References](course-references.md)
+* [Design and Structure](programs-design.md)
+* [Measuring Quality](program-quality.md)
+* [Current Catalog](program-inventory.md)
+* [Software Fundamentals Series](software-fundamentals-series.md)
+* [Course Design and Deployment](course-design-and-deployment.md)
+* [Course Feedback and Analysis](course-analysis.md)
+* [📑 External References](course-references.md)
 
-## Appendix
+## Concept <a id="appendix"></a>
 
-* [Software Fundamentals Series](appendix/software-fundamentals-series.md)
 * [Effective Education](appendix/effective-education-design.md)
 * [Scalable Education Model](appendix/scaling-education.md)
 * [Science of Learning](appendix/science-of-learning.md)
 * [Learning Platform](appendix/learning-platform.md)
-* [Course Design and Deployment](appendix/course-design-and-deployment.md)
-* [Course Feedback and Analysis](appendix/course-analysis.md)
 * [Miscellaneous](appendix/miscellaneous.md)
 

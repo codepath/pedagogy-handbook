@@ -15,11 +15,11 @@ This handbook describes our CodePath.org programs, both current and future, and 
 
 **Or review these additional informational appendix guides:**
 
-* [Software Fundamentals Series](appendix/software-fundamentals-series.md) - Overview of the software fundamentals course series
+* [Software Fundamentals Series](software-fundamentals-series.md) - Overview of the software fundamentals course series
 * [Designing Effective Education](appendix/effective-education-design.md) - Reviewing the ingredients of effective education
 * [Scalable Education Model](appendix/scaling-education.md) - Reviewing a model for scalable education
 * [Science of Learning](appendix/science-of-learning.md) - Reviewing the scientific models for learning
 * [Learning Platform](appendix/learning-platform.md) - Summary of our technology platform and tools powering our programs
-* [Deploying and Analyzing Courses](appendix/course-analysis.md) - Understand how we deploy and improve our courses.
+* [Deploying and Analyzing Courses](course-analysis.md) - Understand how we deploy and improve our courses.
 * [Miscellaneous](appendix/miscellaneous.md) - Additional information about our programs
 

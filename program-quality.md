@@ -1,4 +1,4 @@
-# Program Quality
+# Measuring Quality
 
 {% hint style="warning" %}
 This section is especially a work in progress, these numbers and targets are still being adapted.

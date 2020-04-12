@@ -1,4 +1,4 @@
-# Program Design
+# Design and Structure
 
 ## Course Overview
 

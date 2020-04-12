@@ -37,7 +37,7 @@ Our programs provide this aspect with the following:
 
 After you apply to enough companies, and get opportunities to interview, students need to make sure they are prepared for the rigorous technical interviews associated with top tech companies including data structures, algorithms, problem solving and behavioral interview segments. **We provide a three-part series to provide students confidence and readiness for even the toughest interviews.**
 
-Our [three-part software fundamentals series](appendix/software-fundamentals-series.md) provide this aspect with the following:
+Our [three-part software fundamentals series](software-fundamentals-series.md) provide this aspect with the following:
 
 1. **SE101: Introduction to Software Fundamentals**
    * Audience: Freshman/Sophomore CS & STEM w/ basic programming experience
