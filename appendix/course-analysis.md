@@ -1,4 +1,4 @@
-# Course Analysis
+# Course Feedback and Analysis
 
 ## Deploying our Courses
 
