@@ -15,9 +15,9 @@
 * [Software Fundamentals Series](software-fundamentals-series.md)
 * [Course Design Lifecycle](course-design-and-deployment/README.md)
   * [1. Creation of Curriculum](course-design-and-deployment/course-stages-creation-of-curriculum.md)
-  * [2. Cohort Staffing](course-design-and-deployment/2.-cohort-staffing.md)
-  * [3. Course Deployment](course-design-and-deployment/3.-course-deployment.md)
-  * [4. Course Sprints & Upgrades](course-design-and-deployment/4.-course-sprints-and-upgrades.md)
+  * [2. Cohort Staffing](course-design-and-deployment/course-stages-cohort-staffing.md)
+  * [3. Course Deployment](course-design-and-deployment/course-stages-course-deployment.md)
+  * [4. Course Sprints & Upgrades](course-design-and-deployment/course-stages-course-sprints-and-upgrades.md)
 * [Course Feedback and Analysis](course-analysis.md)
 * [📑 External References](course-references.md)
 
