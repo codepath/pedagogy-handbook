@@ -6,22 +6,22 @@
 
 We have the following courses already developed and are in the **continual process of being improved and iterated on over time**:
 
-* Inspire Track
+* **Inspire Track**
   * [x] [Mobile App Design Workshop Series](https://courses.codepath.com/snippets/mobile_app_design/policies)
-* Software Fundamentals
+* **Software Fundamentals**
   * [x] [SE102 - Intermediate Software Fundamentals](https://courses.codepath.com/snippets/intermediate_software_eng/policies)
   * [x] [SE103 - Advanced Software Fundamentals](https://courses.codepath.com/snippets/advanced_software_eng/policies)
-* Special Topics
+* **Special Topics**
   * [x] [iOS](https://courses.codepath.com/snippets/ios_university/policies)
   * [x] [Android](https://courses.codepath.com/snippets/android_university/policies)
   * [x] [Cybersecurity](https://courses.codepath.com/snippets/cybersecurity_university/course_overview)
-* Career Center
-  * [x] [FAQ from students about software engineering](https://tinyurl.com/codepathquestionsanswered)
+* **Student Career Center**
+  * [x] [FAQ from students about software engineering](https://books.codepath.org/student-handbook/software-engineering/your-questions-answered)
   * [x] [Resume creation starter materials](https://goo.gl/q5dp5w)
-  * [x] [Resume improvement guide](https://tinyurl.com/codepathresumeguide)
+  * [x] [Resume improvement guide](https://books.codepath.org/student-handbook/internship-search/student-resume-guide)
   * [x] [Internship search guide](https://medium.com/@seaon/3-step-guide-to-nail-your-internship-search-82ed58f7f6a)
-  * [x] [Technical interviewing guide](https://tinyurl.com/codepathinterviewguide)
-  * [x] Virtual career fair via Zoom
+  * [x] [Technical interviewing guide](https://books.codepath.org/student-handbook/technical-interviewing/technical-interviewing-guide)
+  * [x] [Virtual career services and fair via Zoom](https://codepath.org/career)
 
 ### Under Development \(~\)
 
@@ -34,9 +34,9 @@ We have the following courses in development currently and to be run soon:
 
 The following are courses that will likely be built out in the future as part of our course offerings:
 
-* Inspire Track
+* **Inspire Track**
   * [ ] Web App Design Workshop Series - Javascript version of intro course
-* Special Topics
+* **Special Topics**
   * [ ] Front-end Web Development \(HTML / CSS / React or Vue?\)
   * [ ] Back-end Web Development \(Node.js\)
   * [ ] Developer Operations \(DevOps\)
