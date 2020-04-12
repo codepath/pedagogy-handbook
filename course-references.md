@@ -1,4 +1,4 @@
-# Course References
+# 📑 Course References
 
 ## Syllabus
 

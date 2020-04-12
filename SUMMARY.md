@@ -9,7 +9,7 @@
 * [Course Catalog](program-inventory.md)
 * [Student Journey](student-journey.md)
 * [Program Expansion](program-expansion.md)
-* [Course References](course-references.md)
+* [📑 Course References](course-references.md)
 
 ## Appendix
 
