@@ -1,14 +1,17 @@
 # Table of contents
 
-* [👋🏽 Introduction](README.md)
+* [👋🏽 Welcome](README.md)
 * [Overview](overview.md)
 * [Student Impact Objectives](student-impact.md)
 * [Guiding Principles](guiding-principles.md)
+* [Student Journey](student-journey.md)
+* [Program Expansion](program-expansion.md)
+
+## Courses
+
 * [Program Design](programs-design.md)
 * [Program Quality](program-quality.md)
 * [Course Catalog](program-inventory.md)
-* [Student Journey](student-journey.md)
-* [Program Expansion](program-expansion.md)
 * [📑 Course References](course-references.md)
 
 ## Appendix
