@@ -1,6 +1,6 @@
 # CodePath.org Overview
 
-At CodePath.org we want to work with university students all across the United States to take them every step of the way through a highly accelerated fast track into the technology industry. Along the way, we will:
+At [CodePath.org](https://codepath.org) we want to work with university students all across the United States to take them every step of the way through a highly accelerated fast track into the technology industry. Along the way, we will:
 
 * Inspire and educate students about the tech industry landscape
 * Provide students necessary context and foundations of a career in software engineering
