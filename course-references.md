@@ -20,9 +20,9 @@
 
 Student Career Guides:
 
-* [Career Center Guidebook](https://codepath.hackmd.io/c/Hkt8rjoQV)
-* [Your Questions Answered](https://tinyurl.com/codepathquestionsanswered)
-* [Building an Effective Resume](https://tinyurl.com/codepathresumeguide)
-* [Internship Interview Guide](https://tinyurl.com/codepathinterviewguide)
+* [Career Center Guidebook](https://books.codepath.org/student-handbook/)
+* [Your Questions Answered](https://books.codepath.org/student-handbook/software-engineering/your-questions-answered)
+* [Building an Effective Resume](https://books.codepath.org/student-handbook/internship-search/student-resume-guide)
+* [Internship Interview Guide](https://books.codepath.org/student-handbook/technical-interviewing/technical-interviewing-guide)
 * [Resume Starter Kit](https://goo.gl/q5dp5w)
 
