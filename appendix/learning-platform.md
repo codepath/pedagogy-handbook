@@ -91,9 +91,6 @@ To achieve the functionality outlined above, the following software modules exis
   ![](http://i.imgur.com/FjXM3I4.png)
 
 * **Admissions** - Admins can easily manage the entire end-to-end state tracking for applicants
-
-  ![](http://i.imgur.com/6YI9zYU.png)
-
 * **Course Viewer** - Course content available for access by participants
 
   ![](http://i.imgur.com/tcfAyjM.png)
@@ -107,20 +104,12 @@ To achieve the functionality outlined above, the following software modules exis
   ![](http://i.imgur.com/ygO4K8k.png)
 
 * **Mailer** - Templatized emails to be sent to people before and during a course
-
-  ![](http://i.imgur.com/BHXXHYA.png)
-
 * **Gradebook** - Review and score assignments submitted before and during a course
-
-  ![](http://i.imgur.com/urC8JHA.png)
-
 * **Roster** - Unified people tracking everyone involved with classes
 
-  ![](http://i.imgur.com/A3lS3cW.png)
+## Future Modules
 
-## Extended Modules
-
-On top of our core learning platform, there are additional modules that we want to build including:
+On top of our core learning platform, there are additional modules that we want to build in the future including:
 
 * **Virtual Career Fairs**
   * End-to-end platform running large-scale virtual career fairs for our students
