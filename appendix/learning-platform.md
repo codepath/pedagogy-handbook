@@ -56,7 +56,7 @@ At the core of this system are a few concepts:
 | Members | Students, moderators, and admins within cohorts | Jane Smith |
 | Application | Students applying to be in a cohort | Jane's Application for Feb 2016 @ Facebook |
 
-Each type of class and curriculum in our system is called a "course". Courses are developed, similar to how open-source software is developed, using git, github, and a certain directory structure. Think of the course system as a "framework for developing curriculum" just as [Ruby on Rails](http://rubyonrails.org/) is a "framework for developing web applications".
+Each type of class and curriculum in our system is called a "course". Courses are developed, similar to how open-source software is developed, using git, GitHub, and a certain directory structure. Think of the course system as a "framework for developing curriculum" just as [Ruby on Rails](http://rubyonrails.org/) is a "framework for developing web applications".
 
 ## Components
 
@@ -72,7 +72,7 @@ This learning platform consists of the following major software components:
 | Courses | Course content viewer available for access by participants |
 | Discussions | Questions and answer companion for solving technical issues |
 | Guides | Technical topic guides available to be searched and accessed |
-| Mailer | Templatized emails to be sent to people before and during a course |
+| Mailer | Templated emails to be sent to people before and during a course |
 | Roster | Unified people tracking everyone involved with classes |
 | Gradebook | Review and score assignments submitted during a course |
 | Analytics | Collect and visualize classroom, student and instructor analytics |
@@ -103,7 +103,7 @@ To achieve the functionality outlined above, the following software modules exis
 
   ![](http://i.imgur.com/ygO4K8k.png)
 
-* **Mailer** - Templatized emails to be sent to people before and during a course
+* **Mailer** - Templated emails to be sent to people before and during a course
 * **Gradebook** - Review and score assignments submitted before and during a course
 * **Roster** - Unified people tracking everyone involved with classes
 
