@@ -51,7 +51,7 @@ At the core of this system are a few concepts:
 
 | Concept | Description | Example |
 | :--- | :--- | :--- |
-| Course | Types of curriculums that can be used | Intro to Android |
+| Course | Types of curriculum that can be used | Intro to Android |
 | Cohort | Individual instances of a course that are run | February Android @ Facebook |
 | Members | Students, moderators, and admins within cohorts | Jane Smith |
 | Application | Students applying to be in a cohort | Jane's Application for Feb 2016 @ Facebook |
