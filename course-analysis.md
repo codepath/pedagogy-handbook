@@ -30,3 +30,21 @@ These four distinct metrics help us understand the various ways our programs are
 
 For more details on gathering feedback, analyzing and improving courses, check out [the fourth section of the deploying programs doc](course-design-and-deployment/#4-Course-Maintenance-and-Iteration).
 
+## What exactly is NPS?
+
+The Net Promoter Score \(or NPS\) is the world’s leading metric for measuring customer satisfaction and loyalty for a product or service. The core is that it is designed to gauge their willingness to recommend it to others.
+
+**Scores range from -100 to 100**
+
+\(Number of Promoters — Number of Detractors\) / \(Number of Respondents\) x 100
+
+* 0 – 6: Detractors
+* 7 – 8: Passives
+* 9 - 10: Promoters
+
+Interesting notes about the challenge of high scores with NPS:
+
+* Students rating a course 7 or 8 give us no positive points
+* Only a 9 or 10 give us any positive scores
+* Any thing from 0 - 6 subtracts points from score \(if everyone rated that you'd be in the negative\)
+
