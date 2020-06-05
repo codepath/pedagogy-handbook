@@ -39,10 +39,10 @@ After you apply to enough companies, and get opportunities to interview, student
 
 Our [three-part software fundamentals series](software-fundamentals-series.md) provide this aspect with the following:
 
-1. **SE101: Introduction to Software Fundamentals**
+1. **SE101: Introduction to Software Fundamentals** \([Syllabus](https://courses.codepath.com/snippets/intro_software_eng/overview)\)
    * Audience: Freshman/Sophomore CS & STEM w/ basic programming experience
    * Goal: Practical techniques for designing and implementing basic algorithms \(UMPIRE\)
-2. **SE102: Intermediate Software Fundamentals**
+2. **SE102: Intermediate Software Fundamentals** \([Syllabus](https://courses.codepath.com/snippets/intermediate_software_eng/policies)\)
    * Audience: Sophomore/Junior CS w/ data structures and algorithms experience
    * Goal: Improve student proficiency and confidence in algorithmic techniques and analysis
    * Topics: Intermediate algorithms including sorting, combinations, trees,  complexity analysis
