@@ -9,6 +9,7 @@ We have the following courses already developed and are in the **continual proce
 * **Inspire Track**
   * [x] [Mobile App Design Workshop Series](https://courses.codepath.com/snippets/mobile_app_design/policies)
 * **Software Fundamentals**
+  * [x] [SE101 - Intro to Software Fundamentals](https://courses.codepath.com/snippets/intro_software_eng/overview)
   * [x] [SE102 - Intermediate Software Fundamentals](https://courses.codepath.com/snippets/intermediate_software_eng/policies)
   * [x] [SE103 - Advanced Software Fundamentals](https://courses.codepath.com/snippets/advanced_software_eng/policies)
 * **Special Topics**
@@ -27,8 +28,7 @@ We have the following courses already developed and are in the **continual proce
 
 We have the following courses in development currently and to be run soon:
 
-* Software Fundamentals
-  * [ ] [Intro to Software Fundamentals](software-fundamentals-series.md) \(SE101\)
+* **TBD** - Planning for next course to develop
 
 ### Future Roadmap
 
