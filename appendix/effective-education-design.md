@@ -12,18 +12,18 @@ In order to create optimal learning outcomes and environments, we need to consid
 
 Effective educational programs require incorporating the following elements:
 
-1. **Accountability** - Upheld contract for participating in program
+1. **Accountability** - Upheld contract for participating in the program
 2. **Targeted** - Tailored curriculum specific to the audience
 3. **Personal** - Interpersonal social interactions between peers and instructors
-4. **Recognition** - Public recognition for hard-work and determination
+4. **Recognition** - Public recognition for hard work and determination
 5. **Feedback** - Frequent detailed feedback on projects
 6. **Ritual** - Live sessions with peers and mentors, consistent structure and processes
 
 ### Curriculum
 
-Effective curriculum should incorporate the following:
+An effective curriculum should incorporate the following:
 
-* **Branching Curriculum** - Curriculum needs to be branched and adjustable to instructor and audience
+* **Responsive Curriculum** - Curriculum is flexible and responsive to instructor and audience needs
 * **Reinforcing Materials** - Content covered needs to be reinforced by digital materials and videos
 * **Creative Projects** - Important content needs to be introduced and then applied within a project
 * **Peer Exercises** - Participants should be working with peers to apply concepts creatively

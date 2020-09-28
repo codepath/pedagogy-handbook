@@ -9,6 +9,8 @@
 
 ## Courses
 
+---
+
 * [Design and Structure](programs-design.md)
 * [Measuring Quality](program-quality.md)
 * [Current Catalog](program-inventory.md)
