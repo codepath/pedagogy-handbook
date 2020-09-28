@@ -31,14 +31,14 @@ An effective curriculum should incorporate the following:
 
 ### Tools
 
-Effective curriculum and education can be supported with software tools:
+Effective curriculum and education can be supported by software systems:
 
 * **Curriculum Collaboration** - Easy collaboration between curriculum developers and instructors
-* **Online Resources** - Participants need online references, notes and videos reinforcing concepts
+* **Online Resources** - Participants need online references, notes, and videos reinforcing concepts
 * **Project Tracking** - Instructors need an easy way to track and review submitted projects
 * **Course Announcements** - Instructors and TAs need easy and template-based modes to communicate
 * **Discussions** - Peers and instructors need an easy forum for digital discussion with each other
-* **Course Feedback** - Easy way for participants to give instructor detailed feedback
+* **Course Feedback** - Easy way for participants to give the instruction detailed feedback
 
 ## Components of Learning
 
