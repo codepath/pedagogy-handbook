@@ -40,9 +40,20 @@ Effective curriculum and education can be supported by software systems:
 * **Discussions** - Peers and instructors need an easy forum for digital discussion with each other
 * **Course Feedback** - Easy way for participants to give the instruction detailed feedback
 
+### **Student Experience**
+
+What makes for an amazing and powerful student experience?
+
+* **Meaningful** **& contextualized** - The topics, projects, and skills encountered in this course are significant to the student and relevant to their specific goals and frequently contextualized.
+* **Proper leveling** - Setting up students for success in the program by making sure students that enter the class are appropriately prepared.
+* **Pacing and workload** - Topics and concepts are introduced at a reasonable but intense pace and provides a manageable workload, while also challenging students.
+* **Story and narrative** - Provide a clear and compelling story for students, with proper context and motivational elements.
+* **Flexible to student need** - Course curriculum and program design that allows for an elastic level of difficulty, where advanced students can go deeper into reading and application, where less experienced students don't feel left behind.
+* **Robust student support channels** - Fast and accurate technical and career support such that students feel well supported when they are confused or things go wrong.
+
 ## Components of Learning
 
-There are several vitally important components to effective learning and retention:
+There are several vitally important components of effective learning and retention:
 
 1. **Blended Learning**
 2. **Spaced Repetition**
@@ -53,7 +64,7 @@ There are several vitally important components to effective learning and retenti
 
 Research reveals the benefits of a **careful combination of synchronous and asynchronous learning** modalities. [Blended learning](http://en.wikipedia.org/wiki/Blended_learning) properly combined can allow for the best of both since each mode has [distinct advantages and disadvantages](http://elearningindustry.com/benefits-of-synchronous-and-asynchronous-e-learning).
 
-Purely synchronous learning where students learn only in-person without comprehensive online supporting materials have significant limitations and similarly online asynchronous learning without any live sessions has can significantly weaken the efficacy. Optimal learning outcomes **combine both synchronous and asynchronous** modes of learning holding live learning sessions with peers in addition to well-designed supporting materials including guides, videos, graphics available online.
+Purely synchronous learning where students learn only in-person without comprehensive online supporting materials has significant limitations and similarly online asynchronous learning without any live sessions has can significantly weaken the efficacy. Optimal learning outcomes **combine both synchronous and asynchronous** modes of learning holding live learning sessions with peers in addition to well-designed supporting materials including guides, videos, graphics available online.
 
 ### Learning and Spaced Repetition
 
