@@ -21,6 +21,7 @@
   * [3. Course Deployment](course-design-and-deployment/course-stages-course-deployment.md)
   * [4. Course Sprints & Upgrades](course-design-and-deployment/course-stages-course-sprints-and-upgrades.md)
 * [Course Feedback and Analysis](course-analysis.md)
+* [Curriculum Development](curriculum-development.md)
 * [📑 External References](course-references.md)
 
 ## Concept <a id="appendix"></a>
