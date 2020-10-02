@@ -8,7 +8,7 @@ description: >-
 
 ## Curriculum Workflows & Platform
 
-All of our curriculum and related content is hosted and managed in a structure that is very familiar to how you build out software. In particular, the curriculum and almost all of our technical content:
+All of our curriculum and related content are hosted and managed in a structure that is very familiar to how software is collaborated on in the open-source world. In particular, the curriculum and almost all of our technical content:
 
 * Source lives in Github repositories filled with folders and files that comprise the course
 * Works like any code repo with issues, pull-requests, and commit history
@@ -55,19 +55,16 @@ For example, a 6-week Android course could be split into six “units”. Each u
 
 ### Diving Deeper into Curriculum Components
 
-Each course curriculum is a combination of certain key well-defined building blocks:
-
-* Orientation pages \(Welcome page, Syllabus, Submitting Assignments Instructions\)
-* Instructional units/modules representing a complete chunk of the class materials
-* Grading rubrics
-
-and then within each unit or module of content, we can have:
+Each course curriculum is by design a sequence of units or modules. Within each well-constructed unit or module of content, we have the following pieces:
 
 * **Unit Overview** - An overview for the unit and includes links to relevant pages, external resources, files, videos and other content to be reviewed that week.
 * **Hands-on Lab** A hands-on lab for a given unit to be run usually during class time in a lab session. Typically this is a series of challenges/checkpoints to be completed by the student to develop a better understanding of key concepts.
 * **Assignment/Submission** - Primary deliverable for a given unit. Typically this is a larger project that ties together the core use cases and concepts for this week. Usually includes a due date, a record video walkthrough, a set of required user stories, and additional optional user stories to extend the project.
 * **Session or Group Activity** - group or “pod” activity to be completed during a class session i.e brainstorming app ideas that must be completed during that unit. Anything to complete in class.
 * **Hints and Tips** - Hints, tips, troubleshooting, solutions, etc that a student should review before and during the completion of the assignment. Usually developed with a first pass and added to over time as students run into issues.
+
+These units often include assets linked such as:
+
 * **Slide decks** \(hosted in markdown, Speakerdeck, or Google Slides\)
 * **Topic Videos** \(hosted on Youtube\) - Explaining specific concepts or topics to be used in this unit
 * **Assignment or Lab Videos** - Intro videos pertaining to a specific assignment or lab
