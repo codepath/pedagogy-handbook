@@ -76,7 +76,7 @@ In addition, there is the **following shared content** that can be used across a
 * **Pages** - These are markdown content pages that are not associated to any one unit. These can be linked throughout the course. Usually for submission instructions, student outlines, etc.
 * **Snippets** - These are arbitrary files associated with a course that should not be displayed within the course structure. This is typically for standalone content associated with a course such as pre-work for applicants, course outlines, or other content not associated with a particular unit.
 
-### Curriculum Philosophies
+## Curriculum Philosophies
 
 Refer to our [guiding principles](guiding-principles.md) and [measuring quality ](program-quality.md)pages for more insights into our program design philosophies.
 
