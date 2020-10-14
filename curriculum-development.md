@@ -8,7 +8,7 @@ description: >-
 
 ## Curriculum Workflows & Platform
 
-All of our curriculum and related content are hosted and managed in a structure that is very familiar to how software is collaborated on in the open-source world. In particular, the curriculum and almost all of our technical content:
+All of our curriculum and related content are hosted and managed in a structure that is very similar to how software is collaborated on in the open-source world. In particular, the curriculum and almost all of our technical content:
 
 * Source lives in Github repositories filled with folders and files that comprise the course
 * Works like any code repo with issues, pull-requests, and commit history
