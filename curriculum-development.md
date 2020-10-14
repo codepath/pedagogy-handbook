@@ -90,5 +90,12 @@ Don’t think of your course as teaching a topic, or teaching concepts. Start by
 
 **Anchor everything to these three questions above, and return to them again and again.** Read this guide on [application-centered curriculum design](https://hackmd.io/@nesquena/application-centric-education) here.
 
+## Diving Deeper into Developing Curriculum
 
+For a deeper look at the actual process for developing a new curriculum in association with CodePath, check out our [New Curriculum Development Map](https://hackmd.io/@nesquena/course-development-map). In that document, we cover many more details about the key stakeholders, contractors, and the stages of rolling out a new course. This includes:
+
+* [Recap of what's contained in a course content package](https://hackmd.io/I2gvkuQKSmyb6eeahrbCsw?view#What%E2%80%99s-in-a-course-content-packages)
+* [The contractors involved in making a new course](https://hackmd.io/I2gvkuQKSmyb6eeahrbCsw?view#New-Curriculum-Map)
+* [Stages of development with a new curriculum](https://hackmd.io/I2gvkuQKSmyb6eeahrbCsw?view#Development-Stages)
+* [FAQ - Common questions related to our courses](https://hackmd.io/I2gvkuQKSmyb6eeahrbCsw?view#Other-Questions)
 
