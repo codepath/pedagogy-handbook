@@ -2,6 +2,7 @@
 
 * [👋🏽 Welcome](README.md)
 * [CodePath.org Overview](overview.md)
+* [A Holistic Path Forward](a-holistic-path-forward.md)
 * [Student Impact Objectives](student-impact.md)
 * [Guiding Principles](guiding-principles.md)
 * [Student Journey](student-journey.md)
