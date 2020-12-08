@@ -57,11 +57,11 @@ There are four different major categories of our [CodePath.org](http://codepath.
 
 There are five key aspects of maximizing their probability of success:
 
-* **Setup for success**. A [polished resume, LinkedIn profile](https://goo.gl/q5dp5w), and a technical app portfolio that offers them the best possible chance to get a phone screen
-* **Network and relationships**. Taking steps to [strengthen their network](https://hackmd.io/s/BytxqCfjm#I-would-like-to-learn-about-building-a-good-personal-brand-and-network-for-a-successful-career-as-a-Software-Engineer) and have touchpoints with other students on this path and software engineers in the industry
+* **Setup for success**. A [polished resume, LinkedIn profile](https://books.codepath.org/student-handbook/internship-search/student-resume-guide), and a technical app portfolio that offers them the best possible chance to get a phone screen
+* **Network and relationships**. Taking steps to [strengthen their network](https://books.codepath.org/student-handbook/internship-search/the-art-of-the-follow-up) and have touchpoints with other students on this path and software engineers in the industry
 * **Internship search**. A clear understanding of and support for running a [robust internship search](https://medium.com/@seaon/3-step-guide-to-nail-your-internship-search-82ed58f7f6a) and employing necessary strategies that help them get access to phone screens
-* **Interview readiness**. The necessary preparation, techniques, and confidence to [pass technical interviews](https://tinyurl.com/codepathinterviewguide) at various difficulty levels once they receive interviews.
-* **Domain-specific confidence**. Some practical knowledge and experience in [at least one tech stack](https://hackmd.io/s/ByaoRR9Z7) in order to be prepared and confident in their internships
+* **Interview readiness**. The necessary preparation, techniques, and confidence to [pass technical interviews](https://books.codepath.org/student-handbook/technical-interviewing/technical-interviewing-guide) at various difficulty levels once they receive interviews.
+* **Domain-specific confidence**. Some practical knowledge and experience in [at least one tech stack](https://books.codepath.org/student-handbook/software-engineering/software-career-tracks) in order to be prepared and confident in their internships
 
 You can see our programs outlined below:
 
@@ -75,5 +75,5 @@ It’s important to note that **every student’s path might be different** but 
 * Work in 1-2 technical internships
 * Help as a TechFellow on at least one course they completed
 
-To read more about the student journey and our framework for mastery, check out the [Student Journey page](https://codepath.hackmd.io/c/H1w9jla27/%2Ft87G1kIyRH6QW1RaG3vweQ).
+To read more about the student journey and our framework for mastery, check out the [Student Journey page](student-journey.md).
 
