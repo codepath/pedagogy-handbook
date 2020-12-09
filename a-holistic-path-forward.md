@@ -18,7 +18,7 @@ Students in college that embark on the path to software engineering roles in tec
 
 These are all challenging problems. Our mission is to build support systems and programs that help lift as many underserved students as possible over these multitudes of barriers.
 
-## The Student’s “Happy” Path \(Steps to Industry\)
+## The Student’s “Happy Path" \(Trail to the Tech Industry\)
 
 To understand our approach, let's identify the “ideal student journey” over 8 “milestones”. We can think of this as a broad student funnel combining “[confidence impact objectives](student-impact.md)” and “[career milestones](student-journey.md)”:
 
