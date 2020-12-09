@@ -2,7 +2,7 @@
 
 This section reviews the path a single student can take over 4 years in college participating in CodePath.org courses.
 
-As part of participating in our programs, we've developed a technical mastery framework which we can use to assess and help personalize the coaching for students based on their needs.
+As part of participating in our programs, we've developed a technical mastery framework that we can use to assess and help personalize the coaching for students based on their needs.
 
 ## Sample Student Path
 
@@ -54,5 +54,5 @@ Each of these areas is applied in various ways throughout all aspects of softwar
 * Communicating your work to your peers and manager
 * Creating re-usable libraries that other engineers can apply
 
-We work to reinforce, develop and measure different aspects of these six areas throughout all of our various course offerings, with these being especially emphasized in our three-part software fundamentals series.
+We work to reinforce, develop, and measure different aspects of these six areas throughout all of our various course offerings, with these being especially emphasized in our three-part software fundamentals series.
 

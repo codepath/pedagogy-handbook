@@ -1,8 +1,6 @@
 # A Holistic Path Forward
 
-📖 **Source**: [https://hackmd.io/@nesquena/codepath-holistic-path-forward](https://hackmd.io/@nesquena/codepath-holistic-path-forward)
-
-### Student Challenges <a id="Student-Challenges"></a>
+## Exploring Student Challenges
 
 Between 60-80% of underserved students that major in CS today do not successfully make their way to success within the software industry. Many drop out their Sophomore year, and even those that make it to Senior year often are significantly underprepared and underemployed after graduating.
 
@@ -20,7 +18,7 @@ Students in college that embark on the path to software engineering roles in tec
 
 These are all challenging problems. Our mission is to build support systems and programs that help lift as many underserved students as possible over these multitudes of barriers.
 
-### The Student’s “Happy” Path \(Steps to Industry\) <a id="The-Student&#x2019;s-&#x201C;Happy&#x201D;-Path-Steps-to-Industry"></a>
+## The Student’s “Happy” Path \(Steps to Industry\)
 
 To understand our approach, let's identify the “ideal student journey” over 8 “milestones”. We can think of this as a broad student funnel combining “[confidence impact objectives](student-impact.md)” and “[career milestones](student-journey.md)”:
 
@@ -33,7 +31,7 @@ To understand our approach, let's identify the “ideal student journey” over 
 7. _Student Impact Objective_: Confidence in developing their communication, leadership, and developing mastery through service \(_I feel confident in my technical communication skills, and have taken steps towards helping other students and/or intend to pursue future positions of leadership\)_
 8. _**Career Milestone**_**:** Full-time role in a competitive technical role within 6 months of graduation \(_I received multiple great full-time offers soon after graduating and I am really excited to get started!\)_
 
-### Overcoming Key Obstacles <a id="Overcoming-Key-Obstacles"></a>
+## Overcoming Key Obstacles
 
 We believe that underserved students require systems that help them grow in the following ways in order to consistently ensure their path to success within software engineering:
 
@@ -44,7 +42,7 @@ We believe that underserved students require systems that help them grow in the 
 
 Any approach giving students the best possible chance at success in the software engineering field must combine all of these aspects over multiple years of a student’s development to offer a holistic approach.
 
-### Aspects of our Approach <a id="Aspects-of-our-Approach"></a>
+## Aspects of our Approach
 
 There are four different major categories of our [CodePath.org](http://codepath.org/) university programs that provide all of these above elements:
 
@@ -53,7 +51,7 @@ There are four different major categories of our [CodePath.org](http://codepath.
 3. **Special Topics Courses** - Empowering students with the skills and confidence to be high-performing software engineers contributing meaningfully to real-world projects after they join a company. This focuses on specific technical areas such as mobile development, cybersecurity, etc.
 4. **Career Center** - Working directly with students to secure internships and full-time roles by providing resume review feedback and guides, clear instructions on how to apply for technical internships, virtual career fairs, and other events dedicated to helping them find opportunities.
 
-### Student Journey <a id="Student-Journey"></a>
+## Student Journey
 
 There are five key aspects of maximizing their probability of success:
 
@@ -76,4 +74,6 @@ It’s important to note that **every student’s path might be different** but 
 * Help as a TechFellow on at least one course they completed
 
 To read more about the student journey and our framework for mastery, check out the [Student Journey page](student-journey.md).
+
+📖 **Source**: [https://hackmd.io/@nesquena/codepath-holistic-path-forward](https://hackmd.io/@nesquena/codepath-holistic-path-forward)
 
