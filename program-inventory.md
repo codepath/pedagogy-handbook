@@ -7,15 +7,15 @@
 We have the following courses already developed and are in the **continual process of being improved and iterated on over time**:
 
 * **Inspire Track**
-  * [x] [Mobile App Design Workshop Series](https://courses.codepath.com/snippets/mobile_app_design/policies)
+  * [x] [Mobile App Design Workshop Series](http://courses.codepath.org/snippets/mobile_app_design/syllabus)
 * **Software Fundamentals**
-  * [x] [SE101 - Intro to Software Fundamentals](https://courses.codepath.com/snippets/intro_software_eng/overview)
-  * [x] [SE102 - Intermediate Software Fundamentals](https://courses.codepath.com/snippets/intermediate_software_eng/policies)
-  * [x] [SE103 - Advanced Software Fundamentals](https://courses.codepath.com/snippets/advanced_software_eng/policies)
+  * [x] [SE101 - Intro to Software Fundamentals](https://courses.codepath.org/snippets/intro_software_eng/overview)
+  * [x] [SE102 - Intermediate Software Fundamentals](https://courses.codepath.org/snippets/intermediate_software_eng/policies)
+  * [x] [SE103 - Advanced Software Fundamentals](https://courses.codepath.org/snippets/advanced_software_eng/policies)
 * **Special Topics**
-  * [x] [iOS](https://courses.codepath.com/snippets/ios_university/policies)
-  * [x] [Android](https://courses.codepath.com/snippets/android_university/policies)
-  * [x] [Cybersecurity](https://courses.codepath.com/snippets/cybersecurity_university/course_overview)
+  * [x] [iOS](https://courses.codepath.org/snippets/ios_university/policies)
+  * [x] [Android](https://courses.codepath.org/snippets/android_university/policies)
+  * [x] [Cybersecurity](https://courses.codepath.org/snippets/cybersecurity_university/policies)
 * **Student Career Center**
   * [x] [FAQ from students about software engineering](https://books.codepath.org/student-handbook/software-engineering/your-questions-answered)
   * [x] [Resume creation starter materials](https://goo.gl/q5dp5w)
