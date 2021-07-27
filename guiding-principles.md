@@ -36,7 +36,7 @@ Curriculum, projects, labs, videos, and materials must be developed with clear c
 
 Teaching individual concepts or topics is not helpful unless students are given a proper map for associating and integrating new knowledge as they take courses.
 
-Providing students a clear understanding how how each thing fits into the larger narrative and gets them closer to their goals is also essential to maintaining motivation when things are tough.
+Providing students a clear understanding how each thing fits into the larger narrative and gets them closer to their goals is also essential to maintaining motivation when things are tough.
 
 Check out this [guide on providing context](https://hackmd.io/CDVI8X6mRyO3lIbOxq1_xw) for more details on how to provide relevant context within videos.
 
