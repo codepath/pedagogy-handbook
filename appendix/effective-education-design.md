@@ -102,8 +102,8 @@ This is why effective education needs to be **paired with a community** which al
 
 ## References
 
-* [http://elearningindustry.com/benefits-of-synchronous-and-asynchronous-e-learning](http://elearningindustry.com/benefits-of-synchronous-and-asynchronous-e-learning)
-* [http://ideas.time.com/2011/11/30/the-protege-effect/](http://ideas.time.com/2011/11/30/the-protege-effect/)
-* [http://digest.bps.org.uk/2014/10/students-learn-better-when-they-think.html](http://digest.bps.org.uk/2014/10/students-learn-better-when-they-think.html)
-* [https://managewp.com/spaced-repetition-learning](https://managewp.com/spaced-repetition-learning)
+* [Benefits of Synchronous and Asynchronous E-Learning](http://elearningindustry.com/benefits-of-synchronous-and-asynchronous-e-learning)
+* [The Protege Effect/](http://ideas.time.com/2011/11/30/the-protege-effect/)
+* [Students Learn Better When They Think](http://digest.bps.org.uk/2014/10/students-learn-better-when-they-think.html)
+* [Spaced Repetition Learning](https://managewp.com/spaced-repetition-learning)
 
