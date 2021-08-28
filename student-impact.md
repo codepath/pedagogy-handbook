@@ -45,7 +45,7 @@ Our [three-part software fundamentals series](software-fundamentals-series.md) p
 2. **SE102: Intermediate Software Fundamentals** \([Syllabus](https://courses.codepath.com/snippets/intermediate_software_eng/policies)\)
    * Audience: Sophomore/Junior CS w/ data structures and algorithms experience
    * Goal: Improve student proficiency and confidence in algorithmic techniques and analysis
-   * Topics: Intermediate algorithms including sorting, combinations, trees,  complexity analysis
+   * Topics: Intermediate algorithms including sorting, combinations, trees, complexity analysis
 3. **SE103: Advanced Software Fundamentals** \([Syllabus](https://courses.codepath.com/snippets/advanced_software_eng/policies)\)
    * Audience: Junior/Senior CS  w/ data structures and algorithms experience
    * Goal: Empower students with the confidence and knowledge to excel at top tech companies
@@ -68,7 +68,7 @@ Our programs provide this aspect with intense hands-on, project-based special to
 
 * [iOS Mobile App Development](https://courses.codepath.com/snippets/ios_university/policies)
 * [Android Mobile App Development](https://courses.codepath.com/snippets/android_university/policies)
-* [Cybersecurity for Network and Web](https://courses.codepath.com/snippets/cybersecurity_university/course_overview)
+* [Cybersecurity for Network and Web](https://courses.codepath.com/snippets/cybersecurity_university/policies)
 
 In the mobile courses, you are introduced to practical elements of real-world development including:
 
@@ -97,7 +97,7 @@ Our scaled programs are largely powered and run by student leaders that step up 
 * Helping us improve and maintain curriculum for each course
 * Iterate on the way our programs are run on campuses 
 * Help other student's solve problems through technical support channels
-* Top students take on roles as TechFellows that kick-off sessions presenting to participants at their campus
+* Top students return as alumni and take on roles as TechFellows that kick-off sessions presenting to peer participants at their respective campuses
 * TechFellow Gurus are students that help coordinate with other TechFellows across multiple campuses
 
 Through their time working with CodePath, students are provided opportunities to find their voice, and practice leadership through service as a natural extension of participating in the programs.

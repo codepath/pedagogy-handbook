@@ -22,13 +22,13 @@ We have the following courses already developed and are in the **continual proce
   * [x] [Resume improvement guide](https://books.codepath.org/student-handbook/internship-search/student-resume-guide)
   * [x] [Internship search guide](https://medium.com/@seaon/3-step-guide-to-nail-your-internship-search-82ed58f7f6a)
   * [x] [Technical interviewing guide](https://books.codepath.org/student-handbook/technical-interviewing/technical-interviewing-guide)
-  * [x] [Virtual career services and fair via Zoom](https://codepath.org/career)
+  * [x] [Virtual Career Services and Fair via Zoom](https://codepath.org/career)
 
 ### Under Development \(~\)
 
 We have the following courses in development currently and to be run soon:
 
-* **TBD** - Planning for next course to develop
+* **TBD** - Planning for next course to develop, stay tuned!
 
 ### Future Roadmap
 
