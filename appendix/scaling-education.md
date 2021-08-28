@@ -63,8 +63,8 @@ Imagine a world where this was considered the gold standard for all topics of ed
 
 ## References
 
-* [http://opensource.com/education/13/10/open-business-model-free-education](http://opensource.com/education/13/10/open-business-model-free-education)
-* [http://git-scm.com/book/en/v2/Distributed-Git-Distributed-Workflows\#Dictator-and-Lieutenants-Workflow](http://git-scm.com/book/en/v2/Distributed-Git-Distributed-Workflows#Dictator-and-Lieutenants-Workflow)
-* [http://opensource.com/education](http://opensource.com/education)
-* [http://www.ted.com/talks/richard\_baraniuk\_on\_open\_source\_learning?language=en](http://www.ted.com/talks/richard_baraniuk_on_open_source_learning?language=en)
+* [Open Business Model Free Education](http://opensource.com/education/13/10/open-business-model-free-education)
+* [Dictator and Lieutenants Workflow](http://git-scm.com/book/en/v2/Distributed-Git-Distributed-Workflows#Dictator-and-Lieutenants-Workflow)
+* [opensource.com/education](http://opensource.com/education)
+* [Richard Baraniuk On Open Source Learning](http://www.ted.com/talks/richard_baraniuk_on_open_source_learning?language=en)
 

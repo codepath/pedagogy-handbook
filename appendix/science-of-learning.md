@@ -41,5 +41,5 @@ Refer to [this detailed report](http://www.nctq.org/dmsView/Learning_About_Learn
 
 ## Resources
 
-* [https://www.brainscape.com/blog/2012/10/breakthroughs-science-of-learning-2/](https://www.brainscape.com/blog/2012/10/breakthroughs-science-of-learning-2/)
+* [The 8 Biggest Breakthroughs in the Science of Learning](https://www.brainscape.com/blog/2012/10/breakthroughs-science-of-learning-2/)
 

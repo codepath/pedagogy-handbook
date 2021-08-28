@@ -75,5 +75,5 @@ It’s important to note that **every student’s path might be different** but 
 
 To read more about the student journey and our framework for mastery, check out the [Student Journey page](student-journey.md).
 
-📖 **Source**: [https://hackmd.io/@nesquena/codepath-holistic-path-forward](https://hackmd.io/@nesquena/codepath-holistic-path-forward)
+📖 **Source**: [Codepath's Holistic Path Forward](https://hackmd.io/@nesquena/codepath-holistic-path-forward)
 
