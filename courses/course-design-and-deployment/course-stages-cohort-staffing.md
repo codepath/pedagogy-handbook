@@ -1,6 +1,6 @@
 # 2. Cohort Staffing
 
-### Cohort Staffing \(Instructor, TechFellow and/or Volunteer\) <a id="2-Cohort-Staffing-Instructor-TechFellow-andor-Volunteer"></a>
+## Cohort Staffing \(Instructor, TechFellow and/or Volunteer\) <a id="2-Cohort-Staffing-Instructor-TechFellow-andor-Volunteer"></a>
 
 Each run of the course requires one or more of the following, depending on the course:
 

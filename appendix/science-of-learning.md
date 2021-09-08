@@ -26,7 +26,7 @@ Several major studies on learning such as [the ones identified here](http://www.
 
    Explanations accompanying solved problems help students comprehend underlying principles, taking them beyond
 
-   the mechanics of problem solving. 
+   the mechanics of problem solving.
 
 5. **Distributing practice over time.** Students should practice material several times after learning it, with each practice or review separated by weeks and even months.
 6. **Assessing to boost retention.** Beyond the value of formative assessment \(to help a teacher decide what to teach\) and summative assessment \(to determine what students have learned\), assessments that require students to recall material help information "stick."

@@ -10,20 +10,18 @@
 
 ## Courses
 
----
-
-* [Design and Structure](programs-design.md)
-* [Measuring Quality](program-quality.md)
-* [Current Catalog](program-inventory.md)
-* [Software Fundamentals Series](software-fundamentals-series.md)
-* [Course Design Lifecycle](course-design-and-deployment/README.md)
-  * [1. Creation of Curriculum](course-design-and-deployment/course-stages-creation-of-curriculum.md)
-  * [2. Cohort Staffing](course-design-and-deployment/course-stages-cohort-staffing.md)
-  * [3. Course Deployment](course-design-and-deployment/course-stages-course-deployment.md)
-  * [4. Course Sprints & Upgrades](course-design-and-deployment/course-stages-course-sprints-and-upgrades.md)
-* [Course Feedback and Analysis](course-analysis.md)
-* [Curriculum Development](curriculum-development.md)
-* [📑 External References](course-references.md)
+* [Design and Structure](courses/programs-design.md)
+* [Measuring Quality](courses/program-quality.md)
+* [Current Catalog](courses/program-inventory.md)
+* [Software Fundamentals Series](courses/software-fundamentals-series.md)
+* [Course Design Lifecycle](courses/course-design-and-deployment/README.md)
+  * [1. Creation of Curriculum](courses/course-design-and-deployment/course-stages-creation-of-curriculum.md)
+  * [2. Cohort Staffing](courses/course-design-and-deployment/course-stages-cohort-staffing.md)
+  * [3. Course Deployment](courses/course-design-and-deployment/course-stages-course-deployment.md)
+  * [4. Course Sprints & Upgrades](courses/course-design-and-deployment/course-stages-course-sprints-and-upgrades.md)
+* [Course Feedback and Analysis](courses/course-analysis.md)
+* [Curriculum Development](courses/curriculum-development.md)
+* [📑 External References](courses/course-references.md)
 
 ## Concept <a id="appendix"></a>
 

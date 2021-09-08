@@ -78,7 +78,7 @@ In addition, there is the **following shared content** that can be used across a
 
 ## Curriculum Philosophies
 
-Refer to our [guiding principles](guiding-principles.md) and [measuring quality ](program-quality.md)pages for more insights into our program design philosophies.
+Refer to our [guiding principles](../guiding-principles.md) and [measuring quality ](program-quality.md)pages for more insights into our program design philosophies.
 
 #### Think of your course starting with an application and human-centric approach <a id="Think-of-your-course-starting-with-an-application-and-human-centric-approach"></a>
 
