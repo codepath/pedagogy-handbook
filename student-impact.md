@@ -18,7 +18,7 @@ Our programs provide this aspect with the following:
 
 * Materials providing an overview of what it's like as a software engineer
 * Professional mentors helping out with labs and answering questions
-* Industry Q&A panels around specific subjects so students get questions answered
+* Industry Q\&A panels around specific subjects so students get questions answered
 
 You can see just a small part of the materials available to students around this in our [software engineering - common questions answered guide](https://books.codepath.org/student-handbook/software-engineering/your-questions-answered).
 
@@ -39,14 +39,14 @@ After you apply to enough companies, and get opportunities to interview, student
 
 Our [three-part software fundamentals series](courses/software-fundamentals-series.md) provide this aspect with the following:
 
-1. **SE101: Introduction to Software Fundamentals** \([Syllabus](https://courses.codepath.com/snippets/intro_software_eng/overview)\)
+1. **SE101: Introduction to Software Fundamentals** ([Syllabus](https://courses.codepath.com/snippets/intro_software_eng/overview))
    * Audience: Freshman/Sophomore CS & STEM w/ basic programming experience
-   * Goal: Practical techniques for designing and implementing basic algorithms \(UMPIRE\)
-2. **SE102: Intermediate Software Fundamentals** \([Syllabus](https://courses.codepath.com/snippets/intermediate_software_eng/policies)\)
+   * Goal: Practical techniques for designing and implementing basic algorithms (UMPIRE)
+2. **SE102: Intermediate Software Fundamentals** ([Syllabus](https://courses.codepath.com/snippets/intermediate_software_eng/policies))
    * Audience: Sophomore/Junior CS w/ data structures and algorithms experience
    * Goal: Improve student proficiency and confidence in algorithmic techniques and analysis
    * Topics: Intermediate algorithms including sorting, combinations, trees, complexity analysis
-3. **SE103: Advanced Software Fundamentals** \([Syllabus](https://courses.codepath.com/snippets/advanced_software_eng/policies)\)
+3. **SE103: Advanced Software Fundamentals** ([Syllabus](https://courses.codepath.com/snippets/advanced_software_eng/policies))
    * Audience: Junior/Senior CS  w/ data structures and algorithms experience
    * Goal: Empower students with the confidence and knowledge to excel at top tech companies
    * Topics: Advanced algorithms including graphs, backtracking, greedy, dynamic
@@ -101,4 +101,3 @@ Our scaled programs are largely powered and run by student leaders that step up 
 * TechFellow Gurus are students that help coordinate with other TechFellows across multiple campuses
 
 Through their time working with CodePath, students are provided opportunities to find their voice, and practice leadership through service as a natural extension of participating in the programs.
-

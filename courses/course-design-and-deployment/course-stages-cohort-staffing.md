@@ -1,6 +1,6 @@
 # 2. Cohort Staffing
 
-## Cohort Staffing \(Instructor, TechFellow and/or Volunteer\) <a id="2-Cohort-Staffing-Instructor-TechFellow-andor-Volunteer"></a>
+## Cohort Staffing (Instructor, TechFellow and/or Volunteer) <a href="2-cohort-staffing-instructor-techfellow-andor-volunteer" id="2-cohort-staffing-instructor-techfellow-andor-volunteer"></a>
 
 Each run of the course requires one or more of the following, depending on the course:
 
@@ -11,4 +11,3 @@ Each run of the course requires one or more of the following, depending on the c
 * E. **Teaching Assistant** - These are Codepath alumni that reinforce lessons taught by Instructor by tutoring and mentoring individual students or small groups.
 
 For the TechFellows, this involves an expansive marketing campaign to students, along with a fellows admission program.
-

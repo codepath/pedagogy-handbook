@@ -22,4 +22,3 @@ This handbook describes our CodePath.org programs, both current and future, and 
 * [Learning Platform](appendix/learning-platform.md) - Summary of our technology platform and tools powering our programs
 * [Deploying and Analyzing Courses](courses/course-analysis.md) - Understand how we deploy and improve our courses.
 * [Miscellaneous](appendix/miscellaneous.md) - Additional information about our programs
-

@@ -34,7 +34,7 @@ The learning platform consists of a variety of functions and features targeted a
 * **Course Workflow Automation** 
   * Attendance management system for tracking absences
   * Automating operations during the course i.e grouping people into teams
-* **Technical Q&A Support System**
+* **Technical Q\&A Support System**
   * Searchable question and answer system for technical issues during the course
 * **Technical Guides**
   * Documentation of technical topics which is well-structured and searchable
@@ -49,14 +49,14 @@ Review the [Learning Platform Slides](https://docs.google.com/presentation/d/1i5
 
 At the core of this system are a few concepts:
 
-| Concept | Description | Example |
-| :--- | :--- | :--- |
-| Course | Types of curriculum that can be used | Intro to Android |
-| Cohort | Individual instances of a course that are run | February Android @ Facebook |
-| Members | Students, moderators, and admins within cohorts | Jane Smith |
-| Application | Students applying to be in a cohort | Jane's Application for Feb 2016 @ Facebook |
+| Concept     | Description                                     | Example                                    |
+| ----------- | ----------------------------------------------- | ------------------------------------------ |
+| Course      | Types of curriculum that can be used            | Intro to Android                           |
+| Cohort      | Individual instances of a course that are run   | February Android @ Facebook                |
+| Members     | Students, moderators, and admins within cohorts | Jane Smith                                 |
+| Application | Students applying to be in a cohort             | Jane's Application for Feb 2016 @ Facebook |
 
-Each type of class and curriculum in our system is called a "course". Courses are developed, similar to how open-source software is developed, using git, GitHub, and a certain directory structure. Think of the course system as a "framework for developing curriculum" just as [Ruby on Rails](http://rubyonrails.org/) is a "framework for developing web applications".
+Each type of class and curriculum in our system is called a "course". Courses are developed, similar to how open-source software is developed, using git, GitHub, and a certain directory structure. Think of the course system as a "framework for developing curriculum" just as [Ruby on Rails](http://rubyonrails.org) is a "framework for developing web applications".
 
 ## Components
 
@@ -64,45 +64,40 @@ This learning platform consists of the following major software components:
 
 ![overview](http://i.imgur.com/I7bo6ko.png)
 
-| Component | Description |
-| :--- | :--- |
-| Scheduler | Course scheduler for booking and viewing upcoming classes |
-| Enrollment | Allow eligible applicants to apply to upcoming courses |
-| Admissions | Manages the admission process for any course start to finish |
-| Courses | Course content viewer available for access by participants |
-| Discussions | Questions and answer companion for solving technical issues |
-| Guides | Technical topic guides available to be searched and accessed |
-| Mailer | Templated emails to be sent to people before and during a course |
-| Roster | Unified people tracking everyone involved with classes |
-| Gradebook | Review and score assignments submitted during a course |
-| Analytics | Collect and visualize classroom, student and instructor analytics |
-| Billing | Organization tracking with automated billing based on per-seat |
+| Component   | Description                                                       |
+| ----------- | ----------------------------------------------------------------- |
+| Scheduler   | Course scheduler for booking and viewing upcoming classes         |
+| Enrollment  | Allow eligible applicants to apply to upcoming courses            |
+| Admissions  | Manages the admission process for any course start to finish      |
+| Courses     | Course content viewer available for access by participants        |
+| Discussions | Questions and answer companion for solving technical issues       |
+| Guides      | Technical topic guides available to be searched and accessed      |
+| Mailer      | Templated emails to be sent to people before and during a course  |
+| Roster      | Unified people tracking everyone involved with classes            |
+| Gradebook   | Review and score assignments submitted during a course            |
+| Analytics   | Collect and visualize classroom, student and instructor analytics |
+| Billing     | Organization tracking with automated billing based on per-seat    |
 
 ### In Production
 
 To achieve the functionality outlined above, the following software modules exist but need to be further developed:
 
-* **Unified Member Database** - Unified database and API for all cohorts and members
+*   **Unified Member Database** - Unified database and API for all cohorts and members
 
-  ![](http://i.imgur.com/B8fcOiQ.png)
+    ![](http://i.imgur.com/B8fcOiQ.png)
+*   **Enrollment** - Custom course application system for applicants
 
-* **Enrollment** - Custom course application system for applicants
-
-  ![](http://i.imgur.com/FjXM3I4.png)
-
+    ![](http://i.imgur.com/FjXM3I4.png)
 * **Admissions** - Admins can easily manage the entire end-to-end state tracking for applicants
-* **Course Viewer** - Course content available for access by participants
+*   **Course Viewer** - Course content available for access by participants
 
-  ![](http://i.imgur.com/tcfAyjM.png)
+    ![](http://i.imgur.com/tcfAyjM.png)
+*   **Guides** - Technical topic guides available to be searched and accessed
 
-* **Guides** - Technical topic guides available to be searched and accessed
+    ![](http://i.imgur.com/v0ijsL9.png)
+*   **Discussions** - Announcements and Questions and answer companion for solving technical issues
 
-  ![](http://i.imgur.com/v0ijsL9.png)
-
-* **Discussions** - Announcements and Questions and answer companion for solving technical issues
-
-  ![](http://i.imgur.com/ygO4K8k.png)
-
+    ![](http://i.imgur.com/ygO4K8k.png)
 * **Mailer** - Templated emails to be sent to people before and during a course
 * **Gradebook** - Review and score assignments submitted before and during a course
 * **Roster** - Unified people tracking everyone involved with classes
@@ -136,5 +131,4 @@ On top of our core learning platform, there are additional modules that we want 
 ## Resources
 
 * [Learning Platform Slides](https://docs.google.com/presentation/d/1i5NB29bR9rRNh7tKIVQJMX9kzMps1TmsghueZOryMgo/edit)
-* [Learning Platform Drawings](https://docs.google.com/presentation/d/1JXwY3e9sBs1438MzYHgRx5tjgCeZwl2SjF3arTggqOQ/edit#slide=id.g77656ad78_0_5)
-
+* [Learning Platform Drawings](https://docs.google.com/presentation/d/1JXwY3e9sBs1438MzYHgRx5tjgCeZwl2SjF3arTggqOQ/edit#slide=id.g77656ad78\_0\_5)

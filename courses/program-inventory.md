@@ -2,7 +2,7 @@
 
 ## Programs Inventory
 
-### Currently Developed \(✅\)
+### Currently Developed (✅)
 
 We have the following courses already developed and are in the **continual process of being improved and iterated on over time**:
 
@@ -16,21 +16,21 @@ We have the following courses already developed and are in the **continual proce
   * [x] [iOS](https://courses.codepath.org/snippets/ios_university/policies)
   * [x] [Android](https://courses.codepath.org/snippets/android_university/policies)
   * [x] [Cybersecurity](https://courses.codepath.org/snippets/cybersecurity_university/policies)
-* **Work-based Learning**
+*   **Work-based Learning**
 
-  * [x] Facebook University
-  * [x] SITE Program
+    * [x] Facebook University
+    * [x] SITE Program
 
-  **Student Career Center**
+    **Student Career Center**
 
-  * [x] [FAQ from students about software engineering](https://books.codepath.org/student-handbook/software-engineering/your-questions-answered)
-  * [x] [Resume creation starter materials](https://goo.gl/q5dp5w)
-  * [x] [Resume improvement guide](https://books.codepath.org/student-handbook/internship-search/student-resume-guide)
-  * [x] [Internship search guide](https://medium.com/@seaon/3-step-guide-to-nail-your-internship-search-82ed58f7f6a)
-  * [x] [Technical interviewing guide](https://books.codepath.org/student-handbook/technical-interviewing/technical-interviewing-guide)
-  * [x] [Virtual Career Services and Fair via Zoom](https://codepath.org/career)
+    * [x] [FAQ from students about software engineering](https://books.codepath.org/student-handbook/software-engineering/your-questions-answered)
+    * [x] [Resume creation starter materials](https://goo.gl/q5dp5w)
+    * [x] [Resume improvement guide](https://books.codepath.org/student-handbook/internship-search/student-resume-guide)
+    * [x] [Internship search guide](https://medium.com/@seaon/3-step-guide-to-nail-your-internship-search-82ed58f7f6a)
+    * [x] [Technical interviewing guide](https://books.codepath.org/student-handbook/technical-interviewing/technical-interviewing-guide)
+    * [x] [Virtual Career Services and Fair via Zoom](https://codepath.org/career)
 
-### Under Development \(~\)
+### Under Development (\~)
 
 We have the following courses in development currently and to be run soon:
 
@@ -43,11 +43,10 @@ The following are courses that will likely be built out in the future as part of
 * **Inspire Track**
   * [ ] Web App Design Workshop Series - Javascript version of intro course
 * **Special Topics**
-  * [ ] Front-end Web Development \(HTML / CSS / React or Vue?\)
-  * [ ] Back-end Web Development \(Node.js\)
-  * [ ] Developer Operations \(DevOps\)
+  * [ ] Front-end Web Development (HTML / CSS / React or Vue?)
+  * [ ] Back-end Web Development (Node.js)
+  * [ ] Developer Operations (DevOps)
   * [ ] Cloud Infrastructure
   * [ ] Site Reliability / Infrastructure
   * [ ] Business Intelligence
   * [ ] Machine Learning
-

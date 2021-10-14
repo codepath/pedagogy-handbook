@@ -14,13 +14,13 @@ Open-source software is software whose source code is published and made availab
 
 **How do people collaborate in open-source?**
 
-Open-source software is developed in cooperation between many different individuals all working together with a specific structured workflow to enable mass collaboration. For example, the [Linux](http://www.linux.com/) project has roughly **10,000** people that have contributed to the core alone. Another 100,000+ have contributed to software built in "user-space" surrounding the Kernel itself.
+Open-source software is developed in cooperation between many different individuals all working together with a specific structured workflow to enable mass collaboration. For example, the [Linux](http://www.linux.com) project has roughly **10,000** people that have contributed to the core alone. Another 100,000+ have contributed to software built in "user-space" surrounding the Kernel itself.
 
 When building software or curriculum coordinating even 10 collaborators can be immensely challenging. In order to solve this problem, open-source generally adopts structured solutions to make cooperation much easier. These solutions more recently include the use of a distributed version control system called Git.
 
 To understand open-source, we have to understand the different roles involved in coordinating collaborators helping on a project:
 
-1. **Creator** \(a.k.a Benevolent Dictator\) - This is the person that originally created the project or a spiritual successor that has final decision making power on the "official" content repository.
+1. **Creator** (a.k.a Benevolent Dictator) - This is the person that originally created the project or a spiritual successor that has final decision making power on the "official" content repository.
 2. **Core Maintainers** - This is the team that can write to the official content repository. The stewards of the project responsible for maintaining the quality and integrity of the project.
 3. **Contributors** - These are people interested in contributing to the content repository and they do so by "forking" a personal clone of the repository in which they make changes and then later submit for review by maintainers.
 4. **Commenters** - These are people that haven't yet contributed to the content itself but raise issues when they come up, comment on discussions taking place, and actively provide their feedback on the decisions made on the project.
@@ -29,7 +29,7 @@ To understand open-source, we have to understand the different roles involved in
 
 The process workflow is generally as follows:
 
-* The core project maintainers push to a shared public repository \("blessed remote"\).
+* The core project maintainers push to a shared public repository ("blessed remote").
 * A maintainer or a commenter raises an issue for discussion
 * A contributor clones the blessed repository and makes changes to their clone.
 * The contributor pushes to their own public clone online.
@@ -52,7 +52,7 @@ Applying open-source to education is a fundamental shift in how the world thinks
 * **Living Courses** - All course structure and materials are entirely free and managed by maintainers world-wide. The maintainers are constantly working together to improve the course materials and structure. Assignments, resources, videos, guides, etc. are all available for online for easy access and modification. 
 * **Living Tools** - Courses are powered by open-source software tools and frameworks that enable everyone to have a consistent experience. The learning management system itself is completely free and open-source. Any "content modules" developed through collaboration can be easily plugged into the course content tools which provide rich access to the textbooks and course materials.
 * **Transparent Analytics** - Open-source education must be paired with transparent analytics around efficacy. This is in part measured by assessments and surveys baked into the course content that are submitted by everyone that participates in a learning module. These analytics help maintainers and collaborators to understand the most effective content modules.
-* **Distributed Classrooms** - Since the tools, the courses, and the textbooks are entirely free to access and to redistribute, classroom "peers" will pop-up without any friction. A classroom is defined as a location where there are a number of individuals that would like to learn the material as well as an "instructor" \(or facilitator\) that helps locate a physical venue and create a safe and productive space for interested students to meet and run through the course.
+* **Distributed Classrooms** - Since the tools, the courses, and the textbooks are entirely free to access and to redistribute, classroom "peers" will pop-up without any friction. A classroom is defined as a location where there are a number of individuals that would like to learn the material as well as an "instructor" (or facilitator) that helps locate a physical venue and create a safe and productive space for interested students to meet and run through the course.
 
 Imagine a world where this was considered the gold standard for all topics of education. Millions of people working to review and contribute to countless course modules and textbooks. Classroom analytics allowing everyone to focus their efforts where the strongest impact is being made. Students world-wide self-organizing around facilitators and learning together in millions of small distributed peer groups.
 
@@ -67,4 +67,3 @@ Imagine a world where this was considered the gold standard for all topics of ed
 * [Dictator and Lieutenants Workflow](http://git-scm.com/book/en/v2/Distributed-Git-Distributed-Workflows#Dictator-and-Lieutenants-Workflow)
 * [opensource.com/education](http://opensource.com/education)
 * [Richard Baraniuk On Open Source Learning](http://www.ted.com/talks/richard_baraniuk_on_open_source_learning?language=en)
-

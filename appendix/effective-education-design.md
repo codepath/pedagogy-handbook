@@ -58,7 +58,7 @@ There are several vitally important components of effective learning and retenti
 1. **Blended Learning**
 2. **Spaced Repetition**
 3. **Frequent Socialization**
-4. **Giving Back** \(e.g Community\)
+4. **Giving Back** (e.g Community)
 
 ### Learning and Blended Modalities
 
@@ -68,7 +68,7 @@ Purely synchronous learning where students learn only in-person without comprehe
 
 ### Learning and Spaced Repetition
 
-After learning concepts, cognitive science research into learning demonstrates that retention is centered around the concept of [spaced repetition](https://managewp.com/spaced-repetition-learning) to topics and curriculum. That is to say that each time a topic is presented and applied, that topic will be reinforced into memory. Therefore if you remind yourself of a piece of information regularly, the chance of you remembering it is drastically improved. Each time the topic is reinforced after a longer interval \(a day, a week, a month, a year\), the topic will be retained exponentially longer.
+After learning concepts, cognitive science research into learning demonstrates that retention is centered around the concept of [spaced repetition](https://managewp.com/spaced-repetition-learning) to topics and curriculum. That is to say that each time a topic is presented and applied, that topic will be reinforced into memory. Therefore if you remind yourself of a piece of information regularly, the chance of you remembering it is drastically improved. Each time the topic is reinforced after a longer interval (a day, a week, a month, a year), the topic will be retained exponentially longer.
 
 ### Learning and Socialization
 
@@ -94,7 +94,7 @@ Students will understand and retain knowledge better when afforded opportunities
 
 1. Explain learned concepts frequently during and after a program
 2. Help others learn and allow other students to be their proteges
-3. Constantly be re-exposed to knowledge over a period of weeks \(and months\)
+3. Constantly be re-exposed to knowledge over a period of weeks (and months)
 
 There is countless research that consistently demonstrates that [teaching concepts is one of the most effective ways to learn and retain them](http://ideas.time.com/2011/11/30/the-protege-effect/). In fact, even just suggesting to students they will need to teach in the future [increases their retention](http://digest.bps.org.uk/2014/10/students-learn-better-when-they-think.html).
 
@@ -106,4 +106,3 @@ This is why effective education needs to be **paired with a community** which al
 * [The Protege Effect](http://ideas.time.com/2011/11/30/the-protege-effect/)
 * [Students Learn Better When They Think](http://digest.bps.org.uk/2014/10/students-learn-better-when-they-think.html)
 * [Spaced Repetition Learning](https://managewp.com/spaced-repetition-learning)
-

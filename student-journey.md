@@ -22,18 +22,18 @@ This is an example path a student might take through our various courses over th
 
 1. **Freshman Year**
    * Mobile App Design
-   * Intro Software Fundamentals \(SE101\)
+   * Intro Software Fundamentals (SE101)
 2. **Sophomore Year**
-   * Intermediate Software Fundamentals \(SE102\)
+   * Intermediate Software Fundamentals (SE102)
    * 1st Special Topic: Android for CS
-   * Virtual Career Fair I \(Internship\)
+   * Virtual Career Fair I (Internship)
 3. **Junior Year**
-   * Advanced Software Fundamentals \(SE103\)
+   * Advanced Software Fundamentals (SE103)
    * 2nd Special Topic: Cybersecurity
 4. **Senior Year**
-   * Android for CS \(TechFellow\)
-   * Cybersecurity \(TechFellow\)
-   * Virtual Career Fair II \(first full-time role\)
+   * Android for CS (TechFellow)
+   * Cybersecurity (TechFellow)
+   * Virtual Career Fair II (first full-time role)
 
 ## Technical Mastery Framework
 
@@ -55,4 +55,3 @@ Each of these areas is applied in various ways throughout all aspects of softwar
 * Creating re-usable libraries that other engineers can apply
 
 We work to reinforce, develop, and measure different aspects of these six areas throughout all of our various course offerings, with these being especially emphasized in our three-part software fundamentals series.
-

@@ -20,7 +20,7 @@ To most effectively ensure outcomes, programs should be methodically and careful
 
 In order to serve the broader audience of students, sometimes a course sequence is required, allowing students to enter into the sequence based on their current level of preparedness. This is crucial to ensuring every student is setup for success in a given program.
 
-In cases where we don't have a course sequence, the programs need to be designed very carefully to serve an elastic audience. This is usually done by designing projects and labs that have a smaller number of required stories, as well as having a high level of additional supporting materials \(which students can choose to leverage or not\) to serve students at different levels of preparedness for the course.
+In cases where we don't have a course sequence, the programs need to be designed very carefully to serve an elastic audience. This is usually done by designing projects and labs that have a smaller number of required stories, as well as having a high level of additional supporting materials (which students can choose to leverage or not) to serve students at different levels of preparedness for the course.
 
 ## 3. Immersive Learning
 
@@ -38,13 +38,12 @@ Teaching individual concepts or topics is not helpful unless students are given 
 
 Providing students a clear understanding how each thing fits into the larger narrative and gets them closer to their goals is also essential to maintaining motivation when things are tough.
 
-Check out this [guide on providing context](https://hackmd.io/CDVI8X6mRyO3lIbOxq1_xw) for more details on how to provide relevant context within videos.
+Check out this [guide on providing context](https://hackmd.io/CDVI8X6mRyO3lIbOxq1\_xw) for more details on how to provide relevant context within videos.
 
 ## 5. Progressive Spaced Repetition
 
 Our programs are designed to layer concepts and build on applied knowledge over time, with escalating repetition which combines past concepts and progressively extending them.
 
-All of our courses start by introducing a clear deliverable to work towards \(either a project, or a test or a lab\), and then introduce key concepts and techniques needed on their quest to complete the deliverable.
+All of our courses start by introducing a clear deliverable to work towards (either a project, or a test or a lab), and then introduce key concepts and techniques needed on their quest to complete the deliverable.
 
 The deliverables students submit are layered and build out over time, both frequently repeating past applied concepts and topics, while also challenging and expanding the student's understanding through new deliverables.
-

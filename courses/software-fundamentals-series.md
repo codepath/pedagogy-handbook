@@ -34,7 +34,7 @@ The audience, goals, and outcomes for our software fundamentals series are outli
 
 1. **SE101: Introduction to Software Fundamentals**
    * Audience: Freshman/Sophomore CS & STEM w/ basic programming experience
-   * Goal: Practical techniques for designing and implementing basic algorithms \(UMPIRE\)
+   * Goal: Practical techniques for designing and implementing basic algorithms (UMPIRE)
    * Outcome: **Clear understanding of technical interviewing, follow-through to SE102**
 2. **SE102: Intermediate Software Fundamentals**
    * Audience: Sophomore/Junior CS w/ data structures and algorithms experience
@@ -60,20 +60,20 @@ Check out our [passing the technical interview](https://books.codepath.org/stude
 
 Spanning our three-part software fundamentals series, the following topics will be reviewed across three levels of difficulty:
 
-| Topic | SE101 | SE102 | SE103 |
-| :--- | :--- | :--- | :--- |
-| Loops | ⚪ |  |  |
-| Conditionals | ⚪ |  |  |
-| Hashtables | ⚪ | 🔵 | 🔴 |
-| Strings | ⚪ | 🔵 | 🔴 |
-| Arrays | ⚪ | 🔵 | 🔴 |
-| Linked Lists |  | ⚪ 🔵 | 🔴 |
-| Stacks and Queues |  | ⚪ | 🔵 |
-| Trees and Binary Trees |  | ⚪ 🔵 | 🔴 |
-| Graphs |  | ⚪ | 🔵 |
-| Greedy Algorithms |  |  | ⚪ 🔵 |
-| Dynamic Programming |  |  | ⚪ 🔵 |
-| Backtracking |  |  | ⚪ 🔵 |
+| Topic                  | SE101 | SE102 | SE103 |
+| ---------------------- | ----- | ----- | ----- |
+| Loops                  | ⚪     |       |       |
+| Conditionals           | ⚪     |       |       |
+| Hashtables             | ⚪     | 🔵    | 🔴    |
+| Strings                | ⚪     | 🔵    | 🔴    |
+| Arrays                 | ⚪     | 🔵    | 🔴    |
+| Linked Lists           |       | ⚪ 🔵  | 🔴    |
+| Stacks and Queues      |       | ⚪     | 🔵    |
+| Trees and Binary Trees |       | ⚪ 🔵  | 🔴    |
+| Graphs                 |       | ⚪     | 🔵    |
+| Greedy Algorithms      |       |       | ⚪ 🔵  |
+| Dynamic Programming    |       |       | ⚪ 🔵  |
+| Backtracking           |       |       | ⚪ 🔵  |
 
 {% hint style="info" %}
 **Legend:** ⚪ Easy 🔵 Medium 🔴 Hard
@@ -91,7 +91,7 @@ Spanning our three-part software fundamentals series, students should develop in
 6. Identify and remedy flaws in an implementation that may cause its behavior to differ from the intended design. 
 7. Analyze runtime efficiency and space complexity of algorithms.
 
-The learning goals above are adapted from: [Developing Course-Level Learning Goals for Basic Data Structures in CS2](https://www.cs.oberlin.edu/~ctaylor/pubs/p858-porter.pdf).
+The learning goals above are adapted from: [Developing Course-Level Learning Goals for Basic Data Structures in CS2](https://www.cs.oberlin.edu/\~ctaylor/pubs/p858-porter.pdf).
 
 ## 5. Assessment Framework
 
@@ -105,4 +105,3 @@ The assessment framework enables us to accurately evaluate student skill levels 
 * **Technical Communication** - Writing and speaking about code and projects
 
 We work with students to reinforce, develop and measure all six areas throughout our software fundamentals series.
-

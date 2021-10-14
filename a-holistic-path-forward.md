@@ -8,7 +8,7 @@ Students in college that embark on the path to software engineering roles in tec
 
 * Lack an understanding of software engineering as a career and how this differs from Computer Science, and what software roles are actually like, causing them to believe things like “I need to be good at math”, or “the tech path isn’t for me”
 * Lack a belief that they can personally get access to successful roles in the tech industry themselves
-* Lack of confidence in their own abilities and this self-doubt causes students to fall off the path into tech \(Impostor Syndrome\)
+* Lack of confidence in their own abilities and this self-doubt causes students to fall off the path into tech (Impostor Syndrome)
 * Lack of access to good role models and mentors in tech that are relatable and that believe they can succeed
 * Lack a strong support system along the path into the tech industry which helps them tackle challenges as they arise
 * Lack of a feeling of belonging and acceptance in their peer groups, as well as at tech events, hackathons, or in other social circles
@@ -18,18 +18,18 @@ Students in college that embark on the path to software engineering roles in tec
 
 These are all challenging problems. Our mission is to build support systems and programs that help lift as many underserved students as possible over these multitudes of barriers.
 
-## The Student’s “Happy Path" \(Trail to the Tech Industry\)
+## The Student’s “Happy Path" (Trail to the Tech Industry)
 
 To understand our approach, let's identify the “ideal student journey” over 8 “milestones”. We can think of this as a broad student funnel combining “[confidence impact objectives](student-impact.md)” and “[career milestones](student-journey.md)”:
 
-1. _Student Impact Objective_: Confidence and belief that software engineering and the tech industry is an achievable and desirable career that is worth pursuing and that is a place that they belong \(_I belong, this is for me, and I understand where the pathway leads_\)
-2. _Student Impact Objective_: Confidence and enthusiasm in taking specific actionable steps towards engaging in a technical career path \(_I am excited to begin taking the steps to be ready for a successful career in tech\)_
-3. _**Career Milestone**_**:** Participation in early paid work opportunities \(_I got a chance to work on code & learn and get paid over the summer\)_
-4. _Student Impact Objective_: Confidence in technical problem solving and interviewing \(_I feel confident when I get into a technical interview\)_
-5. _Student Impact Objective_: Confidence in building products in real-world tech stacks \(_I feel confident in at least one practical technical skill, and I have built some cool things I am proud of_\)
-6. _**Career Milestone**_**:** Participation in 1-2 technical internships while in college \(_I received multiple technical interning offers and I am really excited for this summer!\)_
-7. _Student Impact Objective_: Confidence in developing their communication, leadership, and developing mastery through service \(_I feel confident in my technical communication skills, and have taken steps towards helping other students and/or intend to pursue future positions of leadership\)_
-8. _**Career Milestone**_**:** Full-time role in a competitive technical role within 6 months of graduation \(_I received multiple great full-time offers soon after graduating and I am really excited to get started!\)_
+1. _Student Impact Objective_: Confidence and belief that software engineering and the tech industry is an achievable and desirable career that is worth pursuing and that is a place that they belong (_I belong, this is for me, and I understand where the pathway leads_)
+2. _Student Impact Objective_: Confidence and enthusiasm in taking specific actionable steps towards engaging in a technical career path (_I am excited to begin taking the steps to be ready for a successful career in tech)_
+3. _**Career Milestone**_**:** Participation in early paid work opportunities (_I got a chance to work on code & learn and get paid over the summer)_
+4. _Student Impact Objective_: Confidence in technical problem solving and interviewing (_I feel confident when I get into a technical interview)_
+5. _Student Impact Objective_: Confidence in building products in real-world tech stacks (_I feel confident in at least one practical technical skill, and I have built some cool things I am proud of_)
+6. _**Career Milestone**_**:** Participation in 1-2 technical internships while in college (_I received multiple technical interning offers and I am really excited for this summer!)_
+7. _Student Impact Objective_: Confidence in developing their communication, leadership, and developing mastery through service (_I feel confident in my technical communication skills, and have taken steps towards helping other students and/or intend to pursue future positions of leadership)_
+8. _**Career Milestone**_**:** Full-time role in a competitive technical role within 6 months of graduation (_I received multiple great full-time offers soon after graduating and I am really excited to get started!)_
 
 ## Overcoming Key Obstacles
 
@@ -44,7 +44,7 @@ Any approach giving students the best possible chance at success in the software
 
 ## Aspects of our Approach
 
-There are four different major categories of our [CodePath.org](http://codepath.org/) university programs that provide all of these above elements:
+There are four different major categories of our [CodePath.org](http://codepath.org) university programs that provide all of these above elements:
 
 1. **Inspire Workshop Series** - These are entry-level courses for freshmen and sophomores in STEM that provide an introductory foundation to product and coding that should be accessible to anyone but targeted to those who have encountered programming before in one way or another.
 2. **Software Fundamentals Series** - This is a three-part series focused on providing an in-depth foundation to make sure students are prepared for the rigorous technical interviews associated with top tech companies including data structures, algorithms, problem-solving, and behavioral interview segments. We provide a three-part series to provide students confidence and readiness for even the toughest interviews.
@@ -76,4 +76,3 @@ It’s important to note that **every student’s path might be different** but 
 To read more about the student journey and our framework for mastery, check out the [Student Journey page](student-journey.md).
 
 📖 **Source**: [Codepath's Holistic Path Forward](https://hackmd.io/@nesquena/codepath-holistic-path-forward)
-

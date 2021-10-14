@@ -7,7 +7,7 @@ Creation of curriculum involves the following high-level areas:
 * C. **Deliverable Design** - Designing the projects, labs and group activities students will be submitting
 * D. **Session Design** - Designing the session-by-session plan including exercises and which sessions to introduce which deliverables
 
-#### A. Curriculum Staffing <a id="A-Curriculum-Staffing"></a>
+#### A. Curriculum Staffing <a href="a-curriculum-staffing" id="a-curriculum-staffing"></a>
 
 In regards to staffing, we need to contract with people for the following roles during the creation:
 
@@ -17,12 +17,12 @@ In regards to staffing, we need to contract with people for the following roles 
 
 There are generally between 5 and 10 people involved in the development of a new course:
 
-* Primary curriculum developers \(1-3 people\): Includes designing projects, labs, tests, challenge questions, outlining technical guides
-* Supporting curriculum developers \(1-3 people\): Includes supporting technical writing, HackerRank tests, materials, etc.
-* Video walkthrough developer \(1-2 people\): Planning and recording video walkthroughs for projects
-* Beta testers \(2-3 people\): Running through exercises, labs, and projects and providing detailed feedback to curriculum developers
+* Primary curriculum developers (1-3 people): Includes designing projects, labs, tests, challenge questions, outlining technical guides
+* Supporting curriculum developers (1-3 people): Includes supporting technical writing, HackerRank tests, materials, etc.
+* Video walkthrough developer (1-2 people): Planning and recording video walkthroughs for projects
+* Beta testers (2-3 people): Running through exercises, labs, and projects and providing detailed feedback to curriculum developers
 
-#### Curriculum Development Process <a id="Curriculum-Development-Process"></a>
+#### Curriculum Development Process <a href="curriculum-development-process" id="curriculum-development-process"></a>
 
 Curriculum development for CodePath classes follows this general structure:
 
@@ -37,4 +37,3 @@ Curriculum development for CodePath classes follows this general structure:
 9. Fill out course structure into the learning portal
 
 See [our high-level guide to curriculum development for more details](https://courses.codepath.com/snippets/class_organizer_training/curriculum_development).
-

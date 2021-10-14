@@ -14,7 +14,7 @@ The rest of this guide details the mission and programs that encompass that work
 
 ## Core Mission
 
-We want to offer students a robust and well-rounded undergraduate experience that provides them an accelerated pathway towards 1\) building their resume / LinkedIn, 2\) starting the internship search early, 3\) being fully prepared and confident for technical interviews at top companies, 4\) and being high-performing and confident software engineers on the job.
+We want to offer students a robust and well-rounded undergraduate experience that provides them an accelerated pathway towards 1) building their resume / LinkedIn, 2) starting the internship search early, 3) being fully prepared and confident for technical interviews at top companies, 4) and being high-performing and confident software engineers on the job.
 
 In short, we want to provide university students the **clearest and most efficient pathway towards a successful and fulfilling career in the tech industry**, free of charge and available to them directly on their campuses. _This starts Freshman year, through their very first internship, all the way to working in their first job in the tech industry after graduating, and beyond._
 
@@ -38,4 +38,3 @@ _Why introduce students to the tech industry in the first place?_ There are many
 * The tech industry is "eating the world". Entertainment / media, finance, law, business, and more are all built upon lots and lots of software. All of these industries and more will be improved as more and more software engineers are available to empower people to be more effective with their time.
 * The tech industry is what we know, all of us on the team found ourselves in this industry, in one way or another,  and we have an ethical responsibility to reach a hand back towards the next generation.
 * The tech industry is about a lot more than just "coding". Let's not forget that successful software products and business require far more than code. There's room for everyone of all interests: Marketing / PR, Sales, Design, Product, Support, Automated testing, legal, and much more.
-

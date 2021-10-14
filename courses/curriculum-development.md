@@ -16,7 +16,7 @@ All of our curriculum and related content are hosted and managed in a structure 
 * Easily re-use snippets of content to avoid content duplication
 * Code syntax highlighting, expandable text blocks, alert boxes, and many other features
 * Full support for fully dynamic logic and conditionals and code snippets within the course content
-* Full support for multiple course variations \(with the same content being packaged in different ways\)
+* Full support for multiple course variations (with the same content being packaged in different ways)
 * Special dynamic tag system enables dynamic insertion of data, dates, information seamlessly drawing from the cohort, location, user, and other details of the person viewing the course.
 * Support for custom downloadable files which can be easily hosted and linked to
 * Support for markdown-powered slide presentations using reveal.js
@@ -26,7 +26,7 @@ All of our curriculum and related content are hosted and managed in a structure 
 Through our approach, we can use the same best-practice collaboration workflows pulled from software and easily:
 
 * Manage multiple courses in parallel with different applications and start/end dates
-* Manage version control and tracking changes \(branches on Github\)
+* Manage version control and tracking changes (branches on Github)
 * Collaborate on changes with pull requests, code reviews, and merges
 * Full support for coding and dynamic data right within the course content pages
 * Integrated assignment and project grading modules
@@ -35,8 +35,8 @@ Through our approach, we can use the same best-practice collaboration workflows 
 ### **Course Content Deployment**
 
 * Curriculum developed using our platform can easily be linked into running classes powered by our linked technical course portal which is powered by these curriculum source packages.
-* An automated release process ensures that content updates are pushed to the source repository, the content becomes reflected automatically on the course portal to students \(when pushed to the master branch\)
-* Courses can be managed entirely from our organizer dashboard for your organization \(or through CodePath.org\)  
+* An automated release process ensures that content updates are pushed to the source repository, the content becomes reflected automatically on the course portal to students (when pushed to the master branch)
+* Courses can be managed entirely from our organizer dashboard for your organization (or through CodePath.org)  
 * Course participants can single-sign-on via Github and access any courses they are enrolled in
 
 ### Additional Curriculum Assets
@@ -49,7 +49,7 @@ In addition, often the markdown course content will link to content on the follo
 
 ## Content Structure & Orientation
 
-Courses are a combination of certain shared content \(introducing the course, explaining how to submit assignments\), and then a series of units of content in a carefully designed order. A “unit” is a particular section of the course that a user can focus on. A course is composed of a sequential series of “units”.
+Courses are a combination of certain shared content (introducing the course, explaining how to submit assignments), and then a series of units of content in a carefully designed order. A “unit” is a particular section of the course that a user can focus on. A course is composed of a sequential series of “units”.
 
 For example, a 6-week Android course could be split into six “units”. Each unit comprises the curriculum including technical guides, videos, et al for that one week in the course. In contrast, a 1-week full-time program might have five “units”. In this case, each “unit” might consist of a day.
 
@@ -65,8 +65,8 @@ Each course curriculum is by design a sequence of units or modules. Within each 
 
 These units often include assets linked such as:
 
-* **Slide decks** \(hosted in markdown, Speakerdeck, or Google Slides\)
-* **Topic Videos** \(hosted on Youtube\) - Explaining specific concepts or topics to be used in this unit
+* **Slide decks** (hosted in markdown, Speakerdeck, or Google Slides)
+* **Topic Videos **(hosted on Youtube) - Explaining specific concepts or topics to be used in this unit
 * **Assignment or Lab Videos** - Intro videos pertaining to a specific assignment or lab
 
 In addition, there is the **following shared content** that can be used across all units:
@@ -80,7 +80,7 @@ In addition, there is the **following shared content** that can be used across a
 
 Refer to our [guiding principles](../guiding-principles.md) and [measuring quality ](program-quality.md)pages for more insights into our program design philosophies.
 
-#### Think of your course starting with an application and human-centric approach <a id="Think-of-your-course-starting-with-an-application-and-human-centric-approach"></a>
+#### Think of your course starting with an application and human-centric approach <a href="think-of-your-course-starting-with-an-application-and-human-centric-approach" id="think-of-your-course-starting-with-an-application-and-human-centric-approach"></a>
 
 Don’t think of your course as teaching a topic, or teaching concepts. Start by asking yourself three questions:
 
@@ -98,4 +98,3 @@ For a deeper look at the actual process for developing a new curriculum in assoc
 * [The contractors involved in making a new course](https://hackmd.io/I2gvkuQKSmyb6eeahrbCsw?view#New-Curriculum-Map)
 * [Stages of development with a new curriculum](https://hackmd.io/I2gvkuQKSmyb6eeahrbCsw?view#Development-Stages)
 * [FAQ - Common questions related to our courses](https://hackmd.io/I2gvkuQKSmyb6eeahrbCsw?view#Other-Questions)
-
