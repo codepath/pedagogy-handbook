@@ -1,4 +1,4 @@
-# 👋🏽 Welcome
+# 👋 Welcome
 
 This handbook describes our CodePath.org programs, both current and future, and provides insights into our pedagogy and methodology.
 

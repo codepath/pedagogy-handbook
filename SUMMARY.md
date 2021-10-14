@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋🏽 Welcome](README.md)
+* [👋 Welcome](README.md)
 * [CodePath.org Overview](overview.md)
 * [A Holistic Path Forward](a-holistic-path-forward.md)
 * [Student Impact Objectives](student-impact.md)
@@ -23,11 +23,10 @@
 * [Curriculum Development](courses/curriculum-development.md)
 * [📑 External References](courses/course-references.md)
 
-## Concept <a id="appendix"></a>
+## Concept <a href="appendix" id="appendix"></a>
 
 * [Effective Education](appendix/effective-education-design.md)
 * [Scalable Education Model](appendix/scaling-education.md)
 * [Science of Learning](appendix/science-of-learning.md)
 * [Learning Platform](appendix/learning-platform.md)
 * [Miscellaneous](appendix/miscellaneous.md)
-
