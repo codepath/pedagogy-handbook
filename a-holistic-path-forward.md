@@ -44,7 +44,7 @@ Any approach giving students the best possible chance at success in the software
 
 ## Aspects of our Approach
 
-There are four different major categories of our [CodePath.org](http://codepath.org) university programs that provide all of these above elements:
+There are four different major categories of our [CodePath.org](http://codepath.org/) university programs that provide all of these above elements:
 
 1. **Inspire Workshop Series** - These are entry-level courses for freshmen and sophomores in STEM that provide an introductory foundation to product and coding that should be accessible to anyone but targeted to those who have encountered programming before in one way or another.
 2. **Software Fundamentals Series** - This is a three-part series focused on providing an in-depth foundation to make sure students are prepared for the rigorous technical interviews associated with top tech companies including data structures, algorithms, problem-solving, and behavioral interview segments. We provide a three-part series to provide students confidence and readiness for even the toughest interviews.

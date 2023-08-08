@@ -36,7 +36,7 @@ Through our approach, we can use the same best-practice collaboration workflows 
 
 * Curriculum developed using our platform can easily be linked into running classes powered by our linked technical course portal which is powered by these curriculum source packages.
 * An automated release process ensures that content updates are pushed to the source repository, the content becomes reflected automatically on the course portal to students (when pushed to the master branch)
-* Courses can be managed entirely from our organizer dashboard for your organization (or through CodePath.org)  
+* Courses can be managed entirely from our organizer dashboard for your organization (or through CodePath.org) &#x20;
 * Course participants can single-sign-on via Github and access any courses they are enrolled in
 
 ### Additional Curriculum Assets
@@ -66,7 +66,7 @@ Each course curriculum is by design a sequence of units or modules. Within each 
 These units often include assets linked such as:
 
 * **Slide decks** (hosted in markdown, Speakerdeck, or Google Slides)
-* **Topic Videos **(hosted on Youtube) - Explaining specific concepts or topics to be used in this unit
+* **Topic Videos** (hosted on Youtube) - Explaining specific concepts or topics to be used in this unit
 * **Assignment or Lab Videos** - Intro videos pertaining to a specific assignment or lab
 
 In addition, there is the **following shared content** that can be used across all units:
@@ -80,7 +80,7 @@ In addition, there is the **following shared content** that can be used across a
 
 Refer to our [guiding principles](../guiding-principles.md) and [measuring quality ](program-quality.md)pages for more insights into our program design philosophies.
 
-#### Think of your course starting with an application and human-centric approach <a href="think-of-your-course-starting-with-an-application-and-human-centric-approach" id="think-of-your-course-starting-with-an-application-and-human-centric-approach"></a>
+#### Think of your course starting with an application and human-centric approach <a href="#think-of-your-course-starting-with-an-application-and-human-centric-approach" id="think-of-your-course-starting-with-an-application-and-human-centric-approach"></a>
 
 Don’t think of your course as teaching a topic, or teaching concepts. Start by asking yourself three questions:
 

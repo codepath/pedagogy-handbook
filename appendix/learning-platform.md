@@ -111,6 +111,8 @@ Our career connections system is the central access point for CodePath students 
 * Includes advanced matching systems so every interview is a good match
 * End-to-end solution for recruiters includes embedded video, note-taking, and tagging
 
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 The purpose of the events we run and our platform is to directly connect employers to as many students that would fit their internship or entry-level hiring needs as we possibly can. Several times a year, CodePath organizes these “virtual career fairs” (matching events) in which we first collect specific matching data from both students and employers and then use a combination of this intake information and detailed student profiles and performance data to automatically match students and employers for short interviews using our proprietary matching technology.
 
 For each carefully selected match that suggests interested and relevant students based on the employer's specific needs, employers can confirm or reject any matches after reviewing student information. Once the employer confirms the students they’d like to connect with, CodePath directly facilitates short embedded video calls right in the platform, either 1:1 or in small groups. Recruiters can take notes and tag students that they want to follow up with. The platform then facilitates easy follow-ups so that students can be extended offers after the interviews.
@@ -131,5 +133,4 @@ On top of our core learning platform, there are additional modules that we want 
 
 ## Resources
 
-* [Learning Platform Slides](https://docs.google.com/presentation/d/1i5NB29bR9rRNh7tKIVQJMX9kzMps1TmsghueZOryMgo/edit)
-* [Learning Platform Drawings](https://docs.google.com/presentation/d/1JXwY3e9sBs1438MzYHgRx5tjgCeZwl2SjF3arTggqOQ/edit#slide=id.g77656ad78\_0\_5)
+* [Learning Platform Slides](https://docs.google.com/presentation/d/1TGVCgSQjKpckk5dTxapP7Jsm31Dzzu1L362k7PiJDUQ/edit#slide=id.p)

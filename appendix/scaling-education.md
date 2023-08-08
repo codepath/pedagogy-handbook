@@ -2,7 +2,7 @@
 
 ## Overview
 
-Open-source and the related workflows are one of the most successful models for collaboration that have ever been applied. Combining open-source with a [distributed version control](http://en.wikipedia.org/wiki/Distributed_revision_control) such as Git allows for a true peer-to-peer approach to collaboration that is unlike anything that came before.
+Open-source and the related workflows are one of the most successful models for collaboration that have ever been applied. Combining open-source with a [distributed version control](http://en.wikipedia.org/wiki/Distributed\_revision\_control) such as Git allows for a true peer-to-peer approach to collaboration that is unlike anything that came before.
 
 Applying the same principles and workflows to education is one of the best ways to create a sustainable proliferation of high-quality curriculum spread across the world. Leveraging many of these principles will ensure quality and integrity of the experience is maintained as the content is reproduced and propogated.
 
@@ -14,7 +14,7 @@ Open-source software is software whose source code is published and made availab
 
 **How do people collaborate in open-source?**
 
-Open-source software is developed in cooperation between many different individuals all working together with a specific structured workflow to enable mass collaboration. For example, the [Linux](http://www.linux.com) project has roughly **10,000** people that have contributed to the core alone. Another 100,000+ have contributed to software built in "user-space" surrounding the Kernel itself.
+Open-source software is developed in cooperation between many different individuals all working together with a specific structured workflow to enable mass collaboration. For example, the [Linux](http://www.linux.com/) project has roughly **10,000** people that have contributed to the core alone. Another 100,000+ have contributed to software built in "user-space" surrounding the Kernel itself.
 
 When building software or curriculum coordinating even 10 collaborators can be immensely challenging. In order to solve this problem, open-source generally adopts structured solutions to make cooperation much easier. These solutions more recently include the use of a distributed version control system called Git.
 
@@ -36,7 +36,7 @@ The process workflow is generally as follows:
 * The contributor sends the maintainer a "pull request" asking them to pull the changes.
 * The maintainers, contributors and commenters discuss the changes.
 * The maintainer adds the contributor’s repo as a remote repo and merges locally.
-* The maintainer pushes merged changes to the main repository after careful review. 
+* The maintainer pushes merged changes to the main repository after careful review.&#x20;
 
 ### Education and Open-Source
 
@@ -48,8 +48,8 @@ Let us attempt to apply the successful open-source model to education and curric
 
 Applying open-source to education is a fundamental shift in how the world thinks about learning and teaching. A few examples of how to think about an open-source education model in practice:
 
-* **Living Textbooks** - All learning materials are entirely free and managed by maintainers world-wide. Maintainers help curate and edit the content and ensure that the quality is as high as possible. Think [Wikipedia](https://en.wikipedia.org/wiki/Main_Page) for every single topic out there. These textbooks can be "branched" out by anyone into new versions or new collaborators can request their changes to be pulled back into the core.
-* **Living Courses** - All course structure and materials are entirely free and managed by maintainers world-wide. The maintainers are constantly working together to improve the course materials and structure. Assignments, resources, videos, guides, etc. are all available for online for easy access and modification. 
+* **Living Textbooks** - All learning materials are entirely free and managed by maintainers world-wide. Maintainers help curate and edit the content and ensure that the quality is as high as possible. Think [Wikipedia](https://en.wikipedia.org/wiki/Main\_Page) for every single topic out there. These textbooks can be "branched" out by anyone into new versions or new collaborators can request their changes to be pulled back into the core.
+* **Living Courses** - All course structure and materials are entirely free and managed by maintainers world-wide. The maintainers are constantly working together to improve the course materials and structure. Assignments, resources, videos, guides, etc. are all available for online for easy access and modification.&#x20;
 * **Living Tools** - Courses are powered by open-source software tools and frameworks that enable everyone to have a consistent experience. The learning management system itself is completely free and open-source. Any "content modules" developed through collaboration can be easily plugged into the course content tools which provide rich access to the textbooks and course materials.
 * **Transparent Analytics** - Open-source education must be paired with transparent analytics around efficacy. This is in part measured by assessments and surveys baked into the course content that are submitted by everyone that participates in a learning module. These analytics help maintainers and collaborators to understand the most effective content modules.
 * **Distributed Classrooms** - Since the tools, the courses, and the textbooks are entirely free to access and to redistribute, classroom "peers" will pop-up without any friction. A classroom is defined as a location where there are a number of individuals that would like to learn the material as well as an "instructor" (or facilitator) that helps locate a physical venue and create a safe and productive space for interested students to meet and run through the course.
@@ -66,4 +66,4 @@ Imagine a world where this was considered the gold standard for all topics of ed
 * [Open Business Model Free Education](http://opensource.com/education/13/10/open-business-model-free-education)
 * [Dictator and Lieutenants Workflow](http://git-scm.com/book/en/v2/Distributed-Git-Distributed-Workflows#Dictator-and-Lieutenants-Workflow)
 * [opensource.com/education](http://opensource.com/education)
-* [Richard Baraniuk On Open Source Learning](http://www.ted.com/talks/richard_baraniuk_on_open_source_learning?language=en)
+* [Richard Baraniuk On Open Source Learning](http://www.ted.com/talks/richard\_baraniuk\_on\_open\_source\_learning?language=en)
