@@ -21,42 +21,18 @@ We want to build the premier learning platform for highly effective, scalable, a
 
 The learning platform consists of a variety of functions and features targeted around the following:
 
-* **Curriculum Development**
-  * Curriculum collaboration for technical content with easy branching and tracking
-* **Course Scheduling**.&#x20;
-  * Scheduling solution for courses offered where applicants can apply to a course
-* **Admissions Management**&#x20;
-  * Admissions system for accepting applicants and managing the end-to-end admission process
-* **Hybrid Course Delivery System**
-  * Online course platform for seamless hybrid courses combining live and online components.
-* **Assignment Tracking and Scoring**&#x20;
-  * Tracking assignment submissions from participants during the course with built-in scoring.&#x20;
-* **Course Workflow Automation**&#x20;
-  * Attendance management system for tracking absences
-  * Automating operations during the course i.e, grouping people into teams
-* **Technical Q\&A Support System**
-  * Searchable question and answer system for technical issues during the course
-* **Technical Guides**
-  * Documentation of technical topics which is well-structured and searchable
-* **Announcements and Reminders**
-  * Online integrated communication and messaging platform during the course&#x20;
-* **Analytics Platform**&#x20;
-  * Collection and visualizations of all classroom, instructor, and participant analytics
+* **Curriculum Development -** Curriculum collaboration for technical content with easy branching and tracking
+* **Course Scheduling -** Scheduling solution for courses offered where applicants can apply to a course
+* **Admissions Management** - Admissions system for accepting applicants and managing the end-to-end admission process
+* **Hybrid Course Delivery System -** Online course platform for seamless hybrid courses combining live and online components.
+* **Assignment Tracking and Scoring** - Tracking assignment submissions from participants during the course with built-in scoring.&#x20;
+* **Course Workflow Automation** - Built for scale with strategic automation, including automated absence tracking, smart team formation, and much more.&#x20;
+* **Technical Q\&A Support System -** Searchable question and answer system for technical issues during the course
+* **Technical Guides -** Documentation of technical topics which is well-structured and searchable
+* **Announcements and Reminders** - Online integrated communication and messaging platform during the course&#x20;
+* **Analytics Platform** - Collection and visualizations of all classroom, instructor, and participant analytics
 
 Review the [Learning Platform Slides](https://docs.google.com/presentation/d/1i5NB29bR9rRNh7tKIVQJMX9kzMps1TmsghueZOryMgo/edit) for a high-level overview.
-
-### Schema
-
-At the core of this system are a few concepts:
-
-| Concept     | Description                                     | Example                                    |
-| ----------- | ----------------------------------------------- | ------------------------------------------ |
-| Course      | Types of curriculum that can be used            | Intro to Android                           |
-| Cohort      | Individual instances of a course that are run   | February Android @ Facebook                |
-| Members     | Students, moderators, and admins within cohorts | Jane Smith                                 |
-| Application | Students applying to be in a cohort             | Jane's Application for Feb 2016 @ Facebook |
-
-Each type of class and curriculum in our system is called a "course." Courses are developed, similar to how open-source software is developed, using git, GitHub, and a certain directory structure. Think of the course system as a "framework for developing curriculum," just as [Ruby on Rails](http://rubyonrails.org/) is a "framework for developing web applications."
 
 ## Components
 
@@ -76,31 +52,29 @@ This learning platform consists of the following major software components:
 | Roster      | Unified people tracking everyone involved with classes            |
 | Gradebook   | Review and score assignments submitted during a course            |
 | Analytics   | Collect and visualize classroom, student and instructor analytics |
-| Billing     | Organization tracking with automated billing based on per-seat    |
 
 ### In Production
 
 To achieve the functionality outlined above, the following software modules exist but need to be further developed:
 
-*   **Unified Member Database** - Unified database and API for all cohorts and members
+*   **Unified Student Record System** - Unified database and API for all cohorts and members
 
     ![](http://i.imgur.com/B8fcOiQ.png)
-*   **Enrollment** - Custom course application system for applicants
+*   **Application Flow & Enrollment** - Custom course application system for applicants
 
     ![](http://i.imgur.com/FjXM3I4.png)
 * **Admissions** - Admins can easily manage the entire end-to-end state tracking for applicants
-*   **Course Viewer** - Course content available for access by participants
+*   **Student Learning System** - Course content available for access by participants
 
     ![](http://i.imgur.com/tcfAyjM.png)
-*   **Guides** - Technical topic guides available to be searched and accessed
+*   **Living Technical Guides** - Technical topic guides available to be searched and accessed
 
     ![](http://i.imgur.com/v0ijsL9.png)
-*   **Discussions** - Announcements and Questions and answer companion for solving technical issues
+*   **Rich Q\&A and Tech Support** - Announcements and Questions and answer companion for solving technical issues
 
     ![](http://i.imgur.com/ygO4K8k.png)
-* **Mailer** - Templated emails to be sent to people before and during a course
+* **Smart Student Mailer** - Templated emails to be sent to people before and during a course
 * **Gradebook** - Review and score assignments submitted before and during a course
-* **Roster** - Unified people tracking everyone involved with classes
 
 ## CodePath Talent Marketplace
 
@@ -122,13 +96,12 @@ For each carefully selected match that suggests interested and relevant students
 On top of our core learning platform, there are additional modules that we want to build in the future, including:
 
 * **Projects Showcase App**
-  * List of apps created by project groups including short description and screenshots and team
+  * List of apps created by project groups, including short descriptions and screenshots, and team
   * Can be submitted and crowdsourced by our students&#x20;
 * **Alumni Portal**
   * Opt-in to certain communication
   * Link to "staying involved" page
-  * Links to all the ways to stay plugged in:
-    * meetup, slack, facebook, opportunities
+  * Links to all the ways to stay plugged in: meetup, slack, facebook, opportunities
   * See upcoming classes and events
 
 ## Resources
